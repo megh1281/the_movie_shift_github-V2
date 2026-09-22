@@ -1,0 +1,184 @@
+[
+  {
+    "year": 2000,
+    "revenue_n": 279,
+    "budget_n": 390,
+    "median_revenue": 7060876.0,
+    "median_budget": 3500000.0
+  },
+  {
+    "year": 2001,
+    "revenue_n": 310,
+    "budget_n": 464,
+    "median_revenue": 10015764.5,
+    "median_budget": 3000000.0
+  },
+  {
+    "year": 2002,
+    "revenue_n": 333,
+    "budget_n": 493,
+    "median_revenue": 8586376.0,
+    "median_budget": 3000000.0
+  },
+  {
+    "year": 2003,
+    "revenue_n": 349,
+    "budget_n": 514,
+    "median_revenue": 7266209.0,
+    "median_budget": 1595000.0
+  },
+  {
+    "year": 2004,
+    "revenue_n": 393,
+    "budget_n": 694,
+    "median_revenue": 6546059.0,
+    "median_budget": 925000.0
+  },
+  {
+    "year": 2005,
+    "revenue_n": 442,
+    "budget_n": 855,
+    "median_revenue": 4176487.0,
+    "median_budget": 500000.0
+  },
+  {
+    "year": 2006,
+    "revenue_n": 483,
+    "budget_n": 962,
+    "median_revenue": 5179037.0,
+    "median_budget": 532500.0
+  },
+  {
+    "year": 2007,
+    "revenue_n": 538,
+    "budget_n": 1039,
+    "median_revenue": 4400000.0,
+    "median_budget": 675000.0
+  },
+  {
+    "year": 2008,
+    "revenue_n": 505,
+    "budget_n": 1105,
+    "median_revenue": 6198016.0,
+    "median_budget": 500000.0
+  },
+  {
+    "year": 2009,
+    "revenue_n": 576,
+    "budget_n": 1188,
+    "median_revenue": 3394717.0,
+    "median_budget": 658195.0
+  },
+  {
+    "year": 2010,
+    "revenue_n": 579,
+    "budget_n": 1164,
+    "median_revenue": 3317662.0,
+    "median_budget": 625000.0
+  },
+  {
+    "year": 2011,
+    "revenue_n": 550,
+    "budget_n": 1251,
+    "median_revenue": 3894302.5,
+    "median_budget": 500000.0
+  },
+  {
+    "year": 2012,
+    "revenue_n": 605,
+    "budget_n": 1307,
+    "median_revenue": 2412576.0,
+    "median_budget": 250000.0
+  },
+  {
+    "year": 2013,
+    "revenue_n": 627,
+    "budget_n": 1465,
+    "median_revenue": 3986888.0,
+    "median_budget": 164000.0
+  },
+  {
+    "year": 2014,
+    "revenue_n": 693,
+    "budget_n": 1537,
+    "median_revenue": 2030000.0,
+    "median_budget": 80000.0
+  },
+  {
+    "year": 2015,
+    "revenue_n": 659,
+    "budget_n": 1643,
+    "median_revenue": 1921923.0,
+    "median_budget": 42000.0
+  },
+  {
+    "year": 2016,
+    "revenue_n": 736,
+    "budget_n": 1840,
+    "median_revenue": 2000000.0,
+    "median_budget": 25000.0
+  },
+  {
+    "year": 2017,
+    "revenue_n": 808,
+    "budget_n": 2027,
+    "median_revenue": 1235520.0,
+    "median_budget": 17000.0
+  },
+  {
+    "year": 2018,
+    "revenue_n": 781,
+    "budget_n": 2248,
+    "median_revenue": 850000.0,
+    "median_budget": 10000.0
+  },
+  {
+    "year": 2019,
+    "revenue_n": 724,
+    "budget_n": 2559,
+    "median_revenue": 611854.0,
+    "median_budget": 5000.0
+  },
+  {
+    "year": 2020,
+    "revenue_n": 581,
+    "budget_n": 2708,
+    "median_revenue": 136240.0,
+    "median_budget": 3000.0
+  },
+  {
+    "year": 2021,
+    "revenue_n": 679,
+    "budget_n": 3281,
+    "median_revenue": 30000.0,
+    "median_budget": 2000.0
+  },
+  {
+    "year": 2022,
+    "revenue_n": 755,
+    "budget_n": 4085,
+    "median_revenue": 60000.0,
+    "median_budget": 1350.0
+  },
+  {
+    "year": 2023,
+    "revenue_n": 812,
+    "budget_n": 5214,
+    "median_revenue": 711.5,
+    "median_budget": 800.0
+  },
+  {
+    "year": 2024,
+    "revenue_n": 678,
+    "budget_n": 4980,
+    "median_revenue": 100.0,
+    "median_budget": 500.0
+  },
+  {
+    "year": 2025,
+    "revenue_n": 725,
+    "budget_n": 5158,
+    "median_revenue": 100.0,
+    "median_budget": 450.0
+  }
+]

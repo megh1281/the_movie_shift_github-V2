@@ -1,0 +1,2966 @@
+[
+  {
+    "year": 2000,
+    "genre": "Action",
+    "count": 516,
+    "share": 5.2503
+  },
+  {
+    "year": 2000,
+    "genre": "Adventure",
+    "count": 200,
+    "share": 2.035
+  },
+  {
+    "year": 2000,
+    "genre": "Animation",
+    "count": 550,
+    "share": 5.5963
+  },
+  {
+    "year": 2000,
+    "genre": "Comedy",
+    "count": 1327,
+    "share": 13.5022
+  },
+  {
+    "year": 2000,
+    "genre": "Crime",
+    "count": 383,
+    "share": 3.897
+  },
+  {
+    "year": 2000,
+    "genre": "Documentary",
+    "count": 1504,
+    "share": 15.3032
+  },
+  {
+    "year": 2000,
+    "genre": "Drama",
+    "count": 2029,
+    "share": 20.6451
+  },
+  {
+    "year": 2000,
+    "genre": "Family",
+    "count": 332,
+    "share": 3.3781
+  },
+  {
+    "year": 2000,
+    "genre": "Fantasy",
+    "count": 216,
+    "share": 2.1978
+  },
+  {
+    "year": 2000,
+    "genre": "History",
+    "count": 152,
+    "share": 1.5466
+  },
+  {
+    "year": 2000,
+    "genre": "Horror",
+    "count": 435,
+    "share": 4.4261
+  },
+  {
+    "year": 2000,
+    "genre": "Music",
+    "count": 492,
+    "share": 5.0061
+  },
+  {
+    "year": 2000,
+    "genre": "Mystery",
+    "count": 159,
+    "share": 1.6178
+  },
+  {
+    "year": 2000,
+    "genre": "Romance",
+    "count": 569,
+    "share": 5.7896
+  },
+  {
+    "year": 2000,
+    "genre": "Science Fiction",
+    "count": 185,
+    "share": 1.8824
+  },
+  {
+    "year": 2000,
+    "genre": "TV Movie",
+    "count": 373,
+    "share": 3.7953
+  },
+  {
+    "year": 2000,
+    "genre": "Thriller",
+    "count": 483,
+    "share": 4.9145
+  },
+  {
+    "year": 2000,
+    "genre": "War",
+    "count": 66,
+    "share": 0.6716
+  },
+  {
+    "year": 2000,
+    "genre": "Western",
+    "count": 22,
+    "share": 0.2239
+  },
+  {
+    "year": 2001,
+    "genre": "Action",
+    "count": 593,
+    "share": 5.3675
+  },
+  {
+    "year": 2001,
+    "genre": "Adventure",
+    "count": 200,
+    "share": 1.8103
+  },
+  {
+    "year": 2001,
+    "genre": "Animation",
+    "count": 570,
+    "share": 5.1593
+  },
+  {
+    "year": 2001,
+    "genre": "Comedy",
+    "count": 1422,
+    "share": 12.8711
+  },
+  {
+    "year": 2001,
+    "genre": "Crime",
+    "count": 409,
+    "share": 3.702
+  },
+  {
+    "year": 2001,
+    "genre": "Documentary",
+    "count": 1742,
+    "share": 15.7676
+  },
+  {
+    "year": 2001,
+    "genre": "Drama",
+    "count": 2157,
+    "share": 19.5239
+  },
+  {
+    "year": 2001,
+    "genre": "Family",
+    "count": 340,
+    "share": 3.0775
+  },
+  {
+    "year": 2001,
+    "genre": "Fantasy",
+    "count": 219,
+    "share": 1.9823
+  },
+  {
+    "year": 2001,
+    "genre": "History",
+    "count": 161,
+    "share": 1.4573
+  },
+  {
+    "year": 2001,
+    "genre": "Horror",
+    "count": 458,
+    "share": 4.1455
+  },
+  {
+    "year": 2001,
+    "genre": "Music",
+    "count": 666,
+    "share": 6.0282
+  },
+  {
+    "year": 2001,
+    "genre": "Mystery",
+    "count": 187,
+    "share": 1.6926
+  },
+  {
+    "year": 2001,
+    "genre": "Romance",
+    "count": 641,
+    "share": 5.802
+  },
+  {
+    "year": 2001,
+    "genre": "Science Fiction",
+    "count": 228,
+    "share": 2.0637
+  },
+  {
+    "year": 2001,
+    "genre": "TV Movie",
+    "count": 361,
+    "share": 3.2676
+  },
+  {
+    "year": 2001,
+    "genre": "Thriller",
+    "count": 488,
+    "share": 4.4171
+  },
+  {
+    "year": 2001,
+    "genre": "War",
+    "count": 106,
+    "share": 0.9594
+  },
+  {
+    "year": 2001,
+    "genre": "Western",
+    "count": 17,
+    "share": 0.1539
+  },
+  {
+    "year": 2002,
+    "genre": "Action",
+    "count": 571,
+    "share": 4.6235
+  },
+  {
+    "year": 2002,
+    "genre": "Adventure",
+    "count": 218,
+    "share": 1.7652
+  },
+  {
+    "year": 2002,
+    "genre": "Animation",
+    "count": 650,
+    "share": 5.2632
+  },
+  {
+    "year": 2002,
+    "genre": "Comedy",
+    "count": 1541,
+    "share": 12.4777
+  },
+  {
+    "year": 2002,
+    "genre": "Crime",
+    "count": 392,
+    "share": 3.1741
+  },
+  {
+    "year": 2002,
+    "genre": "Documentary",
+    "count": 2071,
+    "share": 16.7692
+  },
+  {
+    "year": 2002,
+    "genre": "Drama",
+    "count": 2253,
+    "share": 18.2429
+  },
+  {
+    "year": 2002,
+    "genre": "Family",
+    "count": 385,
+    "share": 3.1174
+  },
+  {
+    "year": 2002,
+    "genre": "Fantasy",
+    "count": 235,
+    "share": 1.9028
+  },
+  {
+    "year": 2002,
+    "genre": "History",
+    "count": 163,
+    "share": 1.3198
+  },
+  {
+    "year": 2002,
+    "genre": "Horror",
+    "count": 514,
+    "share": 4.1619
+  },
+  {
+    "year": 2002,
+    "genre": "Music",
+    "count": 797,
+    "share": 6.4534
+  },
+  {
+    "year": 2002,
+    "genre": "Mystery",
+    "count": 193,
+    "share": 1.5628
+  },
+  {
+    "year": 2002,
+    "genre": "Romance",
+    "count": 652,
+    "share": 5.2794
+  },
+  {
+    "year": 2002,
+    "genre": "Science Fiction",
+    "count": 203,
+    "share": 1.6437
+  },
+  {
+    "year": 2002,
+    "genre": "TV Movie",
+    "count": 350,
+    "share": 2.834
+  },
+  {
+    "year": 2002,
+    "genre": "Thriller",
+    "count": 525,
+    "share": 4.251
+  },
+  {
+    "year": 2002,
+    "genre": "War",
+    "count": 86,
+    "share": 0.6964
+  },
+  {
+    "year": 2002,
+    "genre": "Western",
+    "count": 25,
+    "share": 0.2024
+  },
+  {
+    "year": 2003,
+    "genre": "Action",
+    "count": 635,
+    "share": 4.5723
+  },
+  {
+    "year": 2003,
+    "genre": "Adventure",
+    "count": 261,
+    "share": 1.8793
+  },
+  {
+    "year": 2003,
+    "genre": "Animation",
+    "count": 690,
+    "share": 4.9683
+  },
+  {
+    "year": 2003,
+    "genre": "Comedy",
+    "count": 1698,
+    "share": 12.2264
+  },
+  {
+    "year": 2003,
+    "genre": "Crime",
+    "count": 393,
+    "share": 2.8298
+  },
+  {
+    "year": 2003,
+    "genre": "Documentary",
+    "count": 2261,
+    "share": 16.2802
+  },
+  {
+    "year": 2003,
+    "genre": "Drama",
+    "count": 2384,
+    "share": 17.1659
+  },
+  {
+    "year": 2003,
+    "genre": "Family",
+    "count": 448,
+    "share": 3.2258
+  },
+  {
+    "year": 2003,
+    "genre": "Fantasy",
+    "count": 226,
+    "share": 1.6273
+  },
+  {
+    "year": 2003,
+    "genre": "History",
+    "count": 220,
+    "share": 1.5841
+  },
+  {
+    "year": 2003,
+    "genre": "Horror",
+    "count": 562,
+    "share": 4.0467
+  },
+  {
+    "year": 2003,
+    "genre": "Music",
+    "count": 1028,
+    "share": 7.4021
+  },
+  {
+    "year": 2003,
+    "genre": "Mystery",
+    "count": 164,
+    "share": 1.1809
+  },
+  {
+    "year": 2003,
+    "genre": "Romance",
+    "count": 708,
+    "share": 5.0979
+  },
+  {
+    "year": 2003,
+    "genre": "Science Fiction",
+    "count": 257,
+    "share": 1.8505
+  },
+  {
+    "year": 2003,
+    "genre": "TV Movie",
+    "count": 393,
+    "share": 2.8298
+  },
+  {
+    "year": 2003,
+    "genre": "Thriller",
+    "count": 485,
+    "share": 3.4922
+  },
+  {
+    "year": 2003,
+    "genre": "War",
+    "count": 99,
+    "share": 0.7128
+  },
+  {
+    "year": 2003,
+    "genre": "Western",
+    "count": 28,
+    "share": 0.2016
+  },
+  {
+    "year": 2004,
+    "genre": "Action",
+    "count": 604,
+    "share": 3.8795
+  },
+  {
+    "year": 2004,
+    "genre": "Adventure",
+    "count": 242,
+    "share": 1.5544
+  },
+  {
+    "year": 2004,
+    "genre": "Animation",
+    "count": 765,
+    "share": 4.9136
+  },
+  {
+    "year": 2004,
+    "genre": "Comedy",
+    "count": 1789,
+    "share": 11.4908
+  },
+  {
+    "year": 2004,
+    "genre": "Crime",
+    "count": 369,
+    "share": 2.3701
+  },
+  {
+    "year": 2004,
+    "genre": "Documentary",
+    "count": 2667,
+    "share": 17.1302
+  },
+  {
+    "year": 2004,
+    "genre": "Drama",
+    "count": 2456,
+    "share": 15.7749
+  },
+  {
+    "year": 2004,
+    "genre": "Family",
+    "count": 464,
+    "share": 2.9803
+  },
+  {
+    "year": 2004,
+    "genre": "Fantasy",
+    "count": 250,
+    "share": 1.6058
+  },
+  {
+    "year": 2004,
+    "genre": "History",
+    "count": 207,
+    "share": 1.3296
+  },
+  {
+    "year": 2004,
+    "genre": "Horror",
+    "count": 712,
+    "share": 4.5732
+  },
+  {
+    "year": 2004,
+    "genre": "Music",
+    "count": 1228,
+    "share": 7.8875
+  },
+  {
+    "year": 2004,
+    "genre": "Mystery",
+    "count": 204,
+    "share": 1.3103
+  },
+  {
+    "year": 2004,
+    "genre": "Romance",
+    "count": 682,
+    "share": 4.3805
+  },
+  {
+    "year": 2004,
+    "genre": "Science Fiction",
+    "count": 225,
+    "share": 1.4452
+  },
+  {
+    "year": 2004,
+    "genre": "TV Movie",
+    "count": 354,
+    "share": 2.2737
+  },
+  {
+    "year": 2004,
+    "genre": "Thriller",
+    "count": 507,
+    "share": 3.2565
+  },
+  {
+    "year": 2004,
+    "genre": "War",
+    "count": 106,
+    "share": 0.6808
+  },
+  {
+    "year": 2004,
+    "genre": "Western",
+    "count": 20,
+    "share": 0.1285
+  },
+  {
+    "year": 2005,
+    "genre": "Action",
+    "count": 645,
+    "share": 3.7275
+  },
+  {
+    "year": 2005,
+    "genre": "Adventure",
+    "count": 286,
+    "share": 1.6528
+  },
+  {
+    "year": 2005,
+    "genre": "Animation",
+    "count": 868,
+    "share": 5.0162
+  },
+  {
+    "year": 2005,
+    "genre": "Comedy",
+    "count": 1954,
+    "share": 11.2922
+  },
+  {
+    "year": 2005,
+    "genre": "Crime",
+    "count": 383,
+    "share": 2.2134
+  },
+  {
+    "year": 2005,
+    "genre": "Documentary",
+    "count": 2862,
+    "share": 16.5395
+  },
+  {
+    "year": 2005,
+    "genre": "Drama",
+    "count": 2799,
+    "share": 16.1755
+  },
+  {
+    "year": 2005,
+    "genre": "Family",
+    "count": 510,
+    "share": 2.9473
+  },
+  {
+    "year": 2005,
+    "genre": "Fantasy",
+    "count": 281,
+    "share": 1.6239
+  },
+  {
+    "year": 2005,
+    "genre": "History",
+    "count": 243,
+    "share": 1.4043
+  },
+  {
+    "year": 2005,
+    "genre": "Horror",
+    "count": 783,
+    "share": 4.525
+  },
+  {
+    "year": 2005,
+    "genre": "Music",
+    "count": 1365,
+    "share": 7.8883
+  },
+  {
+    "year": 2005,
+    "genre": "Mystery",
+    "count": 226,
+    "share": 1.3061
+  },
+  {
+    "year": 2005,
+    "genre": "Romance",
+    "count": 771,
+    "share": 4.4556
+  },
+  {
+    "year": 2005,
+    "genre": "Science Fiction",
+    "count": 274,
+    "share": 1.5834
+  },
+  {
+    "year": 2005,
+    "genre": "TV Movie",
+    "count": 393,
+    "share": 2.2712
+  },
+  {
+    "year": 2005,
+    "genre": "Thriller",
+    "count": 610,
+    "share": 3.5252
+  },
+  {
+    "year": 2005,
+    "genre": "War",
+    "count": 126,
+    "share": 0.7282
+  },
+  {
+    "year": 2005,
+    "genre": "Western",
+    "count": 25,
+    "share": 0.1445
+  },
+  {
+    "year": 2006,
+    "genre": "Action",
+    "count": 661,
+    "share": 3.4032
+  },
+  {
+    "year": 2006,
+    "genre": "Adventure",
+    "count": 329,
+    "share": 1.6939
+  },
+  {
+    "year": 2006,
+    "genre": "Animation",
+    "count": 950,
+    "share": 4.8911
+  },
+  {
+    "year": 2006,
+    "genre": "Comedy",
+    "count": 2073,
+    "share": 10.6729
+  },
+  {
+    "year": 2006,
+    "genre": "Crime",
+    "count": 423,
+    "share": 2.1778
+  },
+  {
+    "year": 2006,
+    "genre": "Documentary",
+    "count": 3279,
+    "share": 16.882
+  },
+  {
+    "year": 2006,
+    "genre": "Drama",
+    "count": 3059,
+    "share": 15.7494
+  },
+  {
+    "year": 2006,
+    "genre": "Family",
+    "count": 530,
+    "share": 2.7287
+  },
+  {
+    "year": 2006,
+    "genre": "Fantasy",
+    "count": 297,
+    "share": 1.5291
+  },
+  {
+    "year": 2006,
+    "genre": "History",
+    "count": 281,
+    "share": 1.4467
+  },
+  {
+    "year": 2006,
+    "genre": "Horror",
+    "count": 941,
+    "share": 4.8448
+  },
+  {
+    "year": 2006,
+    "genre": "Music",
+    "count": 1337,
+    "share": 6.8836
+  },
+  {
+    "year": 2006,
+    "genre": "Mystery",
+    "count": 273,
+    "share": 1.4056
+  },
+  {
+    "year": 2006,
+    "genre": "Romance",
+    "count": 803,
+    "share": 4.1343
+  },
+  {
+    "year": 2006,
+    "genre": "Science Fiction",
+    "count": 268,
+    "share": 1.3798
+  },
+  {
+    "year": 2006,
+    "genre": "TV Movie",
+    "count": 431,
+    "share": 2.219
+  },
+  {
+    "year": 2006,
+    "genre": "Thriller",
+    "count": 736,
+    "share": 3.7893
+  },
+  {
+    "year": 2006,
+    "genre": "War",
+    "count": 129,
+    "share": 0.6642
+  },
+  {
+    "year": 2006,
+    "genre": "Western",
+    "count": 24,
+    "share": 0.1236
+  },
+  {
+    "year": 2007,
+    "genre": "Action",
+    "count": 769,
+    "share": 3.8158
+  },
+  {
+    "year": 2007,
+    "genre": "Adventure",
+    "count": 323,
+    "share": 1.6027
+  },
+  {
+    "year": 2007,
+    "genre": "Animation",
+    "count": 948,
+    "share": 4.704
+  },
+  {
+    "year": 2007,
+    "genre": "Comedy",
+    "count": 2249,
+    "share": 11.1596
+  },
+  {
+    "year": 2007,
+    "genre": "Crime",
+    "count": 460,
+    "share": 2.2825
+  },
+  {
+    "year": 2007,
+    "genre": "Documentary",
+    "count": 3404,
+    "share": 16.8908
+  },
+  {
+    "year": 2007,
+    "genre": "Drama",
+    "count": 3269,
+    "share": 16.2209
+  },
+  {
+    "year": 2007,
+    "genre": "Family",
+    "count": 545,
+    "share": 2.7043
+  },
+  {
+    "year": 2007,
+    "genre": "Fantasy",
+    "count": 309,
+    "share": 1.5333
+  },
+  {
+    "year": 2007,
+    "genre": "History",
+    "count": 275,
+    "share": 1.3646
+  },
+  {
+    "year": 2007,
+    "genre": "Horror",
+    "count": 972,
+    "share": 4.8231
+  },
+  {
+    "year": 2007,
+    "genre": "Music",
+    "count": 1339,
+    "share": 6.6442
+  },
+  {
+    "year": 2007,
+    "genre": "Mystery",
+    "count": 304,
+    "share": 1.5085
+  },
+  {
+    "year": 2007,
+    "genre": "Romance",
+    "count": 847,
+    "share": 4.2028
+  },
+  {
+    "year": 2007,
+    "genre": "Science Fiction",
+    "count": 311,
+    "share": 1.5432
+  },
+  {
+    "year": 2007,
+    "genre": "TV Movie",
+    "count": 425,
+    "share": 2.1089
+  },
+  {
+    "year": 2007,
+    "genre": "Thriller",
+    "count": 775,
+    "share": 3.8456
+  },
+  {
+    "year": 2007,
+    "genre": "War",
+    "count": 114,
+    "share": 0.5657
+  },
+  {
+    "year": 2007,
+    "genre": "Western",
+    "count": 25,
+    "share": 0.1241
+  },
+  {
+    "year": 2008,
+    "genre": "Action",
+    "count": 855,
+    "share": 4.081
+  },
+  {
+    "year": 2008,
+    "genre": "Adventure",
+    "count": 416,
+    "share": 1.9856
+  },
+  {
+    "year": 2008,
+    "genre": "Animation",
+    "count": 983,
+    "share": 4.6919
+  },
+  {
+    "year": 2008,
+    "genre": "Comedy",
+    "count": 2408,
+    "share": 11.4935
+  },
+  {
+    "year": 2008,
+    "genre": "Crime",
+    "count": 483,
+    "share": 2.3054
+  },
+  {
+    "year": 2008,
+    "genre": "Documentary",
+    "count": 3579,
+    "share": 17.0827
+  },
+  {
+    "year": 2008,
+    "genre": "Drama",
+    "count": 3587,
+    "share": 17.1209
+  },
+  {
+    "year": 2008,
+    "genre": "Family",
+    "count": 582,
+    "share": 2.7779
+  },
+  {
+    "year": 2008,
+    "genre": "Fantasy",
+    "count": 339,
+    "share": 1.6181
+  },
+  {
+    "year": 2008,
+    "genre": "History",
+    "count": 294,
+    "share": 1.4033
+  },
+  {
+    "year": 2008,
+    "genre": "Horror",
+    "count": 994,
+    "share": 4.7444
+  },
+  {
+    "year": 2008,
+    "genre": "Music",
+    "count": 1315,
+    "share": 6.2766
+  },
+  {
+    "year": 2008,
+    "genre": "Mystery",
+    "count": 309,
+    "share": 1.4749
+  },
+  {
+    "year": 2008,
+    "genre": "Romance",
+    "count": 976,
+    "share": 4.6585
+  },
+  {
+    "year": 2008,
+    "genre": "Science Fiction",
+    "count": 338,
+    "share": 1.6133
+  },
+  {
+    "year": 2008,
+    "genre": "TV Movie",
+    "count": 432,
+    "share": 2.062
+  },
+  {
+    "year": 2008,
+    "genre": "Thriller",
+    "count": 850,
+    "share": 4.0571
+  },
+  {
+    "year": 2008,
+    "genre": "War",
+    "count": 138,
+    "share": 0.6587
+  },
+  {
+    "year": 2008,
+    "genre": "Western",
+    "count": 32,
+    "share": 0.1527
+  },
+  {
+    "year": 2009,
+    "genre": "Action",
+    "count": 846,
+    "share": 3.8658
+  },
+  {
+    "year": 2009,
+    "genre": "Adventure",
+    "count": 437,
+    "share": 1.9969
+  },
+  {
+    "year": 2009,
+    "genre": "Animation",
+    "count": 1025,
+    "share": 4.6838
+  },
+  {
+    "year": 2009,
+    "genre": "Comedy",
+    "count": 2558,
+    "share": 11.6889
+  },
+  {
+    "year": 2009,
+    "genre": "Crime",
+    "count": 465,
+    "share": 2.1248
+  },
+  {
+    "year": 2009,
+    "genre": "Documentary",
+    "count": 3817,
+    "share": 17.442
+  },
+  {
+    "year": 2009,
+    "genre": "Drama",
+    "count": 3807,
+    "share": 17.3963
+  },
+  {
+    "year": 2009,
+    "genre": "Family",
+    "count": 589,
+    "share": 2.6915
+  },
+  {
+    "year": 2009,
+    "genre": "Fantasy",
+    "count": 411,
+    "share": 1.8781
+  },
+  {
+    "year": 2009,
+    "genre": "History",
+    "count": 331,
+    "share": 1.5125
+  },
+  {
+    "year": 2009,
+    "genre": "Horror",
+    "count": 1065,
+    "share": 4.8666
+  },
+  {
+    "year": 2009,
+    "genre": "Music",
+    "count": 1310,
+    "share": 5.9861
+  },
+  {
+    "year": 2009,
+    "genre": "Mystery",
+    "count": 308,
+    "share": 1.4074
+  },
+  {
+    "year": 2009,
+    "genre": "Romance",
+    "count": 1016,
+    "share": 4.6427
+  },
+  {
+    "year": 2009,
+    "genre": "Science Fiction",
+    "count": 399,
+    "share": 1.8232
+  },
+  {
+    "year": 2009,
+    "genre": "TV Movie",
+    "count": 421,
+    "share": 1.9238
+  },
+  {
+    "year": 2009,
+    "genre": "Thriller",
+    "count": 963,
+    "share": 4.4005
+  },
+  {
+    "year": 2009,
+    "genre": "War",
+    "count": 136,
+    "share": 0.6215
+  },
+  {
+    "year": 2009,
+    "genre": "Western",
+    "count": 46,
+    "share": 0.2102
+  },
+  {
+    "year": 2010,
+    "genre": "Action",
+    "count": 930,
+    "share": 4.0852
+  },
+  {
+    "year": 2010,
+    "genre": "Adventure",
+    "count": 392,
+    "share": 1.7219
+  },
+  {
+    "year": 2010,
+    "genre": "Animation",
+    "count": 1197,
+    "share": 5.2581
+  },
+  {
+    "year": 2010,
+    "genre": "Comedy",
+    "count": 2754,
+    "share": 12.0975
+  },
+  {
+    "year": 2010,
+    "genre": "Crime",
+    "count": 492,
+    "share": 2.1612
+  },
+  {
+    "year": 2010,
+    "genre": "Documentary",
+    "count": 3887,
+    "share": 17.0745
+  },
+  {
+    "year": 2010,
+    "genre": "Drama",
+    "count": 3948,
+    "share": 17.3424
+  },
+  {
+    "year": 2010,
+    "genre": "Family",
+    "count": 622,
+    "share": 2.7323
+  },
+  {
+    "year": 2010,
+    "genre": "Fantasy",
+    "count": 421,
+    "share": 1.8493
+  },
+  {
+    "year": 2010,
+    "genre": "History",
+    "count": 334,
+    "share": 1.4672
+  },
+  {
+    "year": 2010,
+    "genre": "Horror",
+    "count": 1104,
+    "share": 4.8495
+  },
+  {
+    "year": 2010,
+    "genre": "Music",
+    "count": 1242,
+    "share": 5.4557
+  },
+  {
+    "year": 2010,
+    "genre": "Mystery",
+    "count": 357,
+    "share": 1.5682
+  },
+  {
+    "year": 2010,
+    "genre": "Romance",
+    "count": 1068,
+    "share": 4.6914
+  },
+  {
+    "year": 2010,
+    "genre": "Science Fiction",
+    "count": 414,
+    "share": 1.8186
+  },
+  {
+    "year": 2010,
+    "genre": "TV Movie",
+    "count": 381,
+    "share": 1.6736
+  },
+  {
+    "year": 2010,
+    "genre": "Thriller",
+    "count": 926,
+    "share": 4.0676
+  },
+  {
+    "year": 2010,
+    "genre": "War",
+    "count": 171,
+    "share": 0.7512
+  },
+  {
+    "year": 2010,
+    "genre": "Western",
+    "count": 36,
+    "share": 0.1581
+  },
+  {
+    "year": 2011,
+    "genre": "Action",
+    "count": 983,
+    "share": 4.0239
+  },
+  {
+    "year": 2011,
+    "genre": "Adventure",
+    "count": 469,
+    "share": 1.9198
+  },
+  {
+    "year": 2011,
+    "genre": "Animation",
+    "count": 1259,
+    "share": 5.1537
+  },
+  {
+    "year": 2011,
+    "genre": "Comedy",
+    "count": 2882,
+    "share": 11.7975
+  },
+  {
+    "year": 2011,
+    "genre": "Crime",
+    "count": 518,
+    "share": 2.1204
+  },
+  {
+    "year": 2011,
+    "genre": "Documentary",
+    "count": 4186,
+    "share": 17.1354
+  },
+  {
+    "year": 2011,
+    "genre": "Drama",
+    "count": 4403,
+    "share": 18.0237
+  },
+  {
+    "year": 2011,
+    "genre": "Family",
+    "count": 715,
+    "share": 2.9268
+  },
+  {
+    "year": 2011,
+    "genre": "Fantasy",
+    "count": 481,
+    "share": 1.969
+  },
+  {
+    "year": 2011,
+    "genre": "History",
+    "count": 364,
+    "share": 1.49
+  },
+  {
+    "year": 2011,
+    "genre": "Horror",
+    "count": 1237,
+    "share": 5.0637
+  },
+  {
+    "year": 2011,
+    "genre": "Music",
+    "count": 1445,
+    "share": 5.9151
+  },
+  {
+    "year": 2011,
+    "genre": "Mystery",
+    "count": 374,
+    "share": 1.531
+  },
+  {
+    "year": 2011,
+    "genre": "Romance",
+    "count": 1125,
+    "share": 4.6052
+  },
+  {
+    "year": 2011,
+    "genre": "Science Fiction",
+    "count": 462,
+    "share": 1.8912
+  },
+  {
+    "year": 2011,
+    "genre": "TV Movie",
+    "count": 425,
+    "share": 1.7397
+  },
+  {
+    "year": 2011,
+    "genre": "Thriller",
+    "count": 976,
+    "share": 3.9953
+  },
+  {
+    "year": 2011,
+    "genre": "War",
+    "count": 170,
+    "share": 0.6959
+  },
+  {
+    "year": 2011,
+    "genre": "Western",
+    "count": 43,
+    "share": 0.176
+  },
+  {
+    "year": 2012,
+    "genre": "Action",
+    "count": 970,
+    "share": 3.642
+  },
+  {
+    "year": 2012,
+    "genre": "Adventure",
+    "count": 490,
+    "share": 1.8398
+  },
+  {
+    "year": 2012,
+    "genre": "Animation",
+    "count": 1340,
+    "share": 5.0312
+  },
+  {
+    "year": 2012,
+    "genre": "Comedy",
+    "count": 3135,
+    "share": 11.7707
+  },
+  {
+    "year": 2012,
+    "genre": "Crime",
+    "count": 579,
+    "share": 2.1739
+  },
+  {
+    "year": 2012,
+    "genre": "Documentary",
+    "count": 4660,
+    "share": 17.4964
+  },
+  {
+    "year": 2012,
+    "genre": "Drama",
+    "count": 4734,
+    "share": 17.7743
+  },
+  {
+    "year": 2012,
+    "genre": "Family",
+    "count": 679,
+    "share": 2.5494
+  },
+  {
+    "year": 2012,
+    "genre": "Fantasy",
+    "count": 520,
+    "share": 1.9524
+  },
+  {
+    "year": 2012,
+    "genre": "History",
+    "count": 398,
+    "share": 1.4943
+  },
+  {
+    "year": 2012,
+    "genre": "Horror",
+    "count": 1407,
+    "share": 5.2827
+  },
+  {
+    "year": 2012,
+    "genre": "Music",
+    "count": 1501,
+    "share": 5.6357
+  },
+  {
+    "year": 2012,
+    "genre": "Mystery",
+    "count": 432,
+    "share": 1.622
+  },
+  {
+    "year": 2012,
+    "genre": "Romance",
+    "count": 1225,
+    "share": 4.5994
+  },
+  {
+    "year": 2012,
+    "genre": "Science Fiction",
+    "count": 538,
+    "share": 2.02
+  },
+  {
+    "year": 2012,
+    "genre": "TV Movie",
+    "count": 410,
+    "share": 1.5394
+  },
+  {
+    "year": 2012,
+    "genre": "Thriller",
+    "count": 1019,
+    "share": 3.8259
+  },
+  {
+    "year": 2012,
+    "genre": "War",
+    "count": 177,
+    "share": 0.6646
+  },
+  {
+    "year": 2012,
+    "genre": "Western",
+    "count": 54,
+    "share": 0.2027
+  },
+  {
+    "year": 2013,
+    "genre": "Action",
+    "count": 1082,
+    "share": 3.7113
+  },
+  {
+    "year": 2013,
+    "genre": "Adventure",
+    "count": 588,
+    "share": 2.0169
+  },
+  {
+    "year": 2013,
+    "genre": "Animation",
+    "count": 1463,
+    "share": 5.0182
+  },
+  {
+    "year": 2013,
+    "genre": "Comedy",
+    "count": 3468,
+    "share": 11.8955
+  },
+  {
+    "year": 2013,
+    "genre": "Crime",
+    "count": 669,
+    "share": 2.2947
+  },
+  {
+    "year": 2013,
+    "genre": "Documentary",
+    "count": 5039,
+    "share": 17.2841
+  },
+  {
+    "year": 2013,
+    "genre": "Drama",
+    "count": 5441,
+    "share": 18.663
+  },
+  {
+    "year": 2013,
+    "genre": "Family",
+    "count": 714,
+    "share": 2.4491
+  },
+  {
+    "year": 2013,
+    "genre": "Fantasy",
+    "count": 606,
+    "share": 2.0786
+  },
+  {
+    "year": 2013,
+    "genre": "History",
+    "count": 410,
+    "share": 1.4063
+  },
+  {
+    "year": 2013,
+    "genre": "Horror",
+    "count": 1648,
+    "share": 5.6527
+  },
+  {
+    "year": 2013,
+    "genre": "Music",
+    "count": 1515,
+    "share": 5.1965
+  },
+  {
+    "year": 2013,
+    "genre": "Mystery",
+    "count": 490,
+    "share": 1.6807
+  },
+  {
+    "year": 2013,
+    "genre": "Romance",
+    "count": 1361,
+    "share": 4.6683
+  },
+  {
+    "year": 2013,
+    "genre": "Science Fiction",
+    "count": 623,
+    "share": 2.1369
+  },
+  {
+    "year": 2013,
+    "genre": "TV Movie",
+    "count": 414,
+    "share": 1.42
+  },
+  {
+    "year": 2013,
+    "genre": "Thriller",
+    "count": 1255,
+    "share": 4.3047
+  },
+  {
+    "year": 2013,
+    "genre": "War",
+    "count": 167,
+    "share": 0.5728
+  },
+  {
+    "year": 2013,
+    "genre": "Western",
+    "count": 43,
+    "share": 0.1475
+  },
+  {
+    "year": 2014,
+    "genre": "Action",
+    "count": 1064,
+    "share": 3.422
+  },
+  {
+    "year": 2014,
+    "genre": "Adventure",
+    "count": 655,
+    "share": 2.1066
+  },
+  {
+    "year": 2014,
+    "genre": "Animation",
+    "count": 1502,
+    "share": 4.8307
+  },
+  {
+    "year": 2014,
+    "genre": "Comedy",
+    "count": 3758,
+    "share": 12.0863
+  },
+  {
+    "year": 2014,
+    "genre": "Crime",
+    "count": 670,
+    "share": 2.1548
+  },
+  {
+    "year": 2014,
+    "genre": "Documentary",
+    "count": 5543,
+    "share": 17.8272
+  },
+  {
+    "year": 2014,
+    "genre": "Drama",
+    "count": 5870,
+    "share": 18.8788
+  },
+  {
+    "year": 2014,
+    "genre": "Family",
+    "count": 824,
+    "share": 2.6501
+  },
+  {
+    "year": 2014,
+    "genre": "Fantasy",
+    "count": 652,
+    "share": 2.0969
+  },
+  {
+    "year": 2014,
+    "genre": "History",
+    "count": 509,
+    "share": 1.637
+  },
+  {
+    "year": 2014,
+    "genre": "Horror",
+    "count": 1765,
+    "share": 5.6765
+  },
+  {
+    "year": 2014,
+    "genre": "Music",
+    "count": 1504,
+    "share": 4.8371
+  },
+  {
+    "year": 2014,
+    "genre": "Mystery",
+    "count": 564,
+    "share": 1.8139
+  },
+  {
+    "year": 2014,
+    "genre": "Romance",
+    "count": 1489,
+    "share": 4.7889
+  },
+  {
+    "year": 2014,
+    "genre": "Science Fiction",
+    "count": 678,
+    "share": 2.1806
+  },
+  {
+    "year": 2014,
+    "genre": "TV Movie",
+    "count": 520,
+    "share": 1.6724
+  },
+  {
+    "year": 2014,
+    "genre": "Thriller",
+    "count": 1318,
+    "share": 4.2389
+  },
+  {
+    "year": 2014,
+    "genre": "War",
+    "count": 235,
+    "share": 0.7558
+  },
+  {
+    "year": 2014,
+    "genre": "Western",
+    "count": 56,
+    "share": 0.1801
+  },
+  {
+    "year": 2015,
+    "genre": "Action",
+    "count": 1154,
+    "share": 3.5211
+  },
+  {
+    "year": 2015,
+    "genre": "Adventure",
+    "count": 632,
+    "share": 1.9284
+  },
+  {
+    "year": 2015,
+    "genre": "Animation",
+    "count": 1538,
+    "share": 4.6927
+  },
+  {
+    "year": 2015,
+    "genre": "Comedy",
+    "count": 3836,
+    "share": 11.7044
+  },
+  {
+    "year": 2015,
+    "genre": "Crime",
+    "count": 784,
+    "share": 2.3921
+  },
+  {
+    "year": 2015,
+    "genre": "Documentary",
+    "count": 6015,
+    "share": 18.353
+  },
+  {
+    "year": 2015,
+    "genre": "Drama",
+    "count": 6445,
+    "share": 19.665
+  },
+  {
+    "year": 2015,
+    "genre": "Family",
+    "count": 783,
+    "share": 2.3891
+  },
+  {
+    "year": 2015,
+    "genre": "Fantasy",
+    "count": 723,
+    "share": 2.206
+  },
+  {
+    "year": 2015,
+    "genre": "History",
+    "count": 529,
+    "share": 1.6141
+  },
+  {
+    "year": 2015,
+    "genre": "Horror",
+    "count": 1912,
+    "share": 5.8339
+  },
+  {
+    "year": 2015,
+    "genre": "Music",
+    "count": 1624,
+    "share": 4.9551
+  },
+  {
+    "year": 2015,
+    "genre": "Mystery",
+    "count": 626,
+    "share": 1.9101
+  },
+  {
+    "year": 2015,
+    "genre": "Romance",
+    "count": 1604,
+    "share": 4.8941
+  },
+  {
+    "year": 2015,
+    "genre": "Science Fiction",
+    "count": 766,
+    "share": 2.3372
+  },
+  {
+    "year": 2015,
+    "genre": "TV Movie",
+    "count": 555,
+    "share": 1.6934
+  },
+  {
+    "year": 2015,
+    "genre": "Thriller",
+    "count": 1495,
+    "share": 4.5615
+  },
+  {
+    "year": 2015,
+    "genre": "War",
+    "count": 219,
+    "share": 0.6682
+  },
+  {
+    "year": 2015,
+    "genre": "Western",
+    "count": 62,
+    "share": 0.1892
+  },
+  {
+    "year": 2016,
+    "genre": "Action",
+    "count": 1285,
+    "share": 3.7277
+  },
+  {
+    "year": 2016,
+    "genre": "Adventure",
+    "count": 650,
+    "share": 1.8856
+  },
+  {
+    "year": 2016,
+    "genre": "Animation",
+    "count": 1559,
+    "share": 4.5225
+  },
+  {
+    "year": 2016,
+    "genre": "Comedy",
+    "count": 4056,
+    "share": 11.7661
+  },
+  {
+    "year": 2016,
+    "genre": "Crime",
+    "count": 802,
+    "share": 2.3265
+  },
+  {
+    "year": 2016,
+    "genre": "Documentary",
+    "count": 6115,
+    "share": 17.739
+  },
+  {
+    "year": 2016,
+    "genre": "Drama",
+    "count": 6795,
+    "share": 19.7117
+  },
+  {
+    "year": 2016,
+    "genre": "Family",
+    "count": 753,
+    "share": 2.1844
+  },
+  {
+    "year": 2016,
+    "genre": "Fantasy",
+    "count": 741,
+    "share": 2.1496
+  },
+  {
+    "year": 2016,
+    "genre": "History",
+    "count": 497,
+    "share": 1.4417
+  },
+  {
+    "year": 2016,
+    "genre": "Horror",
+    "count": 2037,
+    "share": 5.9091
+  },
+  {
+    "year": 2016,
+    "genre": "Music",
+    "count": 1533,
+    "share": 4.4471
+  },
+  {
+    "year": 2016,
+    "genre": "Mystery",
+    "count": 686,
+    "share": 1.99
+  },
+  {
+    "year": 2016,
+    "genre": "Romance",
+    "count": 1759,
+    "share": 5.1027
+  },
+  {
+    "year": 2016,
+    "genre": "Science Fiction",
+    "count": 807,
+    "share": 2.341
+  },
+  {
+    "year": 2016,
+    "genre": "TV Movie",
+    "count": 607,
+    "share": 1.7608
+  },
+  {
+    "year": 2016,
+    "genre": "Thriller",
+    "count": 1676,
+    "share": 4.8619
+  },
+  {
+    "year": 2016,
+    "genre": "War",
+    "count": 237,
+    "share": 0.6875
+  },
+  {
+    "year": 2016,
+    "genre": "Western",
+    "count": 73,
+    "share": 0.2118
+  },
+  {
+    "year": 2017,
+    "genre": "Action",
+    "count": 1379,
+    "share": 3.5933
+  },
+  {
+    "year": 2017,
+    "genre": "Adventure",
+    "count": 645,
+    "share": 1.6807
+  },
+  {
+    "year": 2017,
+    "genre": "Animation",
+    "count": 1897,
+    "share": 4.9431
+  },
+  {
+    "year": 2017,
+    "genre": "Comedy",
+    "count": 4438,
+    "share": 11.5642
+  },
+  {
+    "year": 2017,
+    "genre": "Crime",
+    "count": 929,
+    "share": 2.4207
+  },
+  {
+    "year": 2017,
+    "genre": "Documentary",
+    "count": 7179,
+    "share": 18.7065
+  },
+  {
+    "year": 2017,
+    "genre": "Drama",
+    "count": 7786,
+    "share": 20.2882
+  },
+  {
+    "year": 2017,
+    "genre": "Family",
+    "count": 864,
+    "share": 2.2513
+  },
+  {
+    "year": 2017,
+    "genre": "Fantasy",
+    "count": 922,
+    "share": 2.4025
+  },
+  {
+    "year": 2017,
+    "genre": "History",
+    "count": 594,
+    "share": 1.5478
+  },
+  {
+    "year": 2017,
+    "genre": "Horror",
+    "count": 2273,
+    "share": 5.9228
+  },
+  {
+    "year": 2017,
+    "genre": "Music",
+    "count": 1710,
+    "share": 4.4558
+  },
+  {
+    "year": 2017,
+    "genre": "Mystery",
+    "count": 736,
+    "share": 1.9178
+  },
+  {
+    "year": 2017,
+    "genre": "Romance",
+    "count": 1953,
+    "share": 5.089
+  },
+  {
+    "year": 2017,
+    "genre": "Science Fiction",
+    "count": 874,
+    "share": 2.2774
+  },
+  {
+    "year": 2017,
+    "genre": "TV Movie",
+    "count": 662,
+    "share": 1.725
+  },
+  {
+    "year": 2017,
+    "genre": "Thriller",
+    "count": 1819,
+    "share": 4.7398
+  },
+  {
+    "year": 2017,
+    "genre": "War",
+    "count": 252,
+    "share": 0.6566
+  },
+  {
+    "year": 2017,
+    "genre": "Western",
+    "count": 86,
+    "share": 0.2241
+  },
+  {
+    "year": 2018,
+    "genre": "Action",
+    "count": 1433,
+    "share": 3.5175
+  },
+  {
+    "year": 2018,
+    "genre": "Adventure",
+    "count": 704,
+    "share": 1.7281
+  },
+  {
+    "year": 2018,
+    "genre": "Animation",
+    "count": 1894,
+    "share": 4.6491
+  },
+  {
+    "year": 2018,
+    "genre": "Comedy",
+    "count": 4545,
+    "share": 11.1564
+  },
+  {
+    "year": 2018,
+    "genre": "Crime",
+    "count": 963,
+    "share": 2.3638
+  },
+  {
+    "year": 2018,
+    "genre": "Documentary",
+    "count": 7623,
+    "share": 18.7118
+  },
+  {
+    "year": 2018,
+    "genre": "Drama",
+    "count": 8413,
+    "share": 20.651
+  },
+  {
+    "year": 2018,
+    "genre": "Family",
+    "count": 861,
+    "share": 2.1135
+  },
+  {
+    "year": 2018,
+    "genre": "Fantasy",
+    "count": 977,
+    "share": 2.3982
+  },
+  {
+    "year": 2018,
+    "genre": "History",
+    "count": 610,
+    "share": 1.4973
+  },
+  {
+    "year": 2018,
+    "genre": "Horror",
+    "count": 2391,
+    "share": 5.8691
+  },
+  {
+    "year": 2018,
+    "genre": "Music",
+    "count": 1631,
+    "share": 4.0035
+  },
+  {
+    "year": 2018,
+    "genre": "Mystery",
+    "count": 815,
+    "share": 2.0005
+  },
+  {
+    "year": 2018,
+    "genre": "Romance",
+    "count": 2046,
+    "share": 5.0222
+  },
+  {
+    "year": 2018,
+    "genre": "Science Fiction",
+    "count": 911,
+    "share": 2.2362
+  },
+  {
+    "year": 2018,
+    "genre": "TV Movie",
+    "count": 677,
+    "share": 1.6618
+  },
+  {
+    "year": 2018,
+    "genre": "Thriller",
+    "count": 1878,
+    "share": 4.6098
+  },
+  {
+    "year": 2018,
+    "genre": "War",
+    "count": 253,
+    "share": 0.621
+  },
+  {
+    "year": 2018,
+    "genre": "Western",
+    "count": 99,
+    "share": 0.243
+  },
+  {
+    "year": 2019,
+    "genre": "Action",
+    "count": 1495,
+    "share": 3.3387
+  },
+  {
+    "year": 2019,
+    "genre": "Adventure",
+    "count": 701,
+    "share": 1.5655
+  },
+  {
+    "year": 2019,
+    "genre": "Animation",
+    "count": 2246,
+    "share": 5.0159
+  },
+  {
+    "year": 2019,
+    "genre": "Comedy",
+    "count": 4844,
+    "share": 10.8178
+  },
+  {
+    "year": 2019,
+    "genre": "Crime",
+    "count": 1098,
+    "share": 2.4521
+  },
+  {
+    "year": 2019,
+    "genre": "Documentary",
+    "count": 8915,
+    "share": 19.9093
+  },
+  {
+    "year": 2019,
+    "genre": "Drama",
+    "count": 9146,
+    "share": 20.4252
+  },
+  {
+    "year": 2019,
+    "genre": "Family",
+    "count": 925,
+    "share": 2.0657
+  },
+  {
+    "year": 2019,
+    "genre": "Fantasy",
+    "count": 1016,
+    "share": 2.269
+  },
+  {
+    "year": 2019,
+    "genre": "History",
+    "count": 735,
+    "share": 1.6414
+  },
+  {
+    "year": 2019,
+    "genre": "Horror",
+    "count": 2557,
+    "share": 5.7104
+  },
+  {
+    "year": 2019,
+    "genre": "Music",
+    "count": 1834,
+    "share": 4.0958
+  },
+  {
+    "year": 2019,
+    "genre": "Mystery",
+    "count": 852,
+    "share": 1.9027
+  },
+  {
+    "year": 2019,
+    "genre": "Romance",
+    "count": 2099,
+    "share": 4.6876
+  },
+  {
+    "year": 2019,
+    "genre": "Science Fiction",
+    "count": 963,
+    "share": 2.1506
+  },
+  {
+    "year": 2019,
+    "genre": "TV Movie",
+    "count": 778,
+    "share": 1.7375
+  },
+  {
+    "year": 2019,
+    "genre": "Thriller",
+    "count": 2017,
+    "share": 4.5044
+  },
+  {
+    "year": 2019,
+    "genre": "War",
+    "count": 270,
+    "share": 0.603
+  },
+  {
+    "year": 2019,
+    "genre": "Western",
+    "count": 107,
+    "share": 0.239
+  },
+  {
+    "year": 2020,
+    "genre": "Action",
+    "count": 1264,
+    "share": 2.861
+  },
+  {
+    "year": 2020,
+    "genre": "Adventure",
+    "count": 575,
+    "share": 1.3015
+  },
+  {
+    "year": 2020,
+    "genre": "Animation",
+    "count": 2596,
+    "share": 5.876
+  },
+  {
+    "year": 2020,
+    "genre": "Comedy",
+    "count": 4427,
+    "share": 10.0204
+  },
+  {
+    "year": 2020,
+    "genre": "Crime",
+    "count": 875,
+    "share": 1.9805
+  },
+  {
+    "year": 2020,
+    "genre": "Documentary",
+    "count": 9363,
+    "share": 21.1928
+  },
+  {
+    "year": 2020,
+    "genre": "Drama",
+    "count": 8381,
+    "share": 18.9701
+  },
+  {
+    "year": 2020,
+    "genre": "Family",
+    "count": 812,
+    "share": 1.8379
+  },
+  {
+    "year": 2020,
+    "genre": "Fantasy",
+    "count": 1040,
+    "share": 2.354
+  },
+  {
+    "year": 2020,
+    "genre": "History",
+    "count": 568,
+    "share": 1.2856
+  },
+  {
+    "year": 2020,
+    "genre": "Horror",
+    "count": 2825,
+    "share": 6.3943
+  },
+  {
+    "year": 2020,
+    "genre": "Music",
+    "count": 1908,
+    "share": 4.3187
+  },
+  {
+    "year": 2020,
+    "genre": "Mystery",
+    "count": 801,
+    "share": 1.813
+  },
+  {
+    "year": 2020,
+    "genre": "Romance",
+    "count": 1915,
+    "share": 4.3345
+  },
+  {
+    "year": 2020,
+    "genre": "Science Fiction",
+    "count": 1021,
+    "share": 2.311
+  },
+  {
+    "year": 2020,
+    "genre": "TV Movie",
+    "count": 690,
+    "share": 1.5618
+  },
+  {
+    "year": 2020,
+    "genre": "Thriller",
+    "count": 1986,
+    "share": 4.4952
+  },
+  {
+    "year": 2020,
+    "genre": "War",
+    "count": 215,
+    "share": 0.4866
+  },
+  {
+    "year": 2020,
+    "genre": "Western",
+    "count": 98,
+    "share": 0.2218
+  },
+  {
+    "year": 2021,
+    "genre": "Action",
+    "count": 1563,
+    "share": 3.2691
+  },
+  {
+    "year": 2021,
+    "genre": "Adventure",
+    "count": 722,
+    "share": 1.5101
+  },
+  {
+    "year": 2021,
+    "genre": "Animation",
+    "count": 3075,
+    "share": 6.4316
+  },
+  {
+    "year": 2021,
+    "genre": "Comedy",
+    "count": 4825,
+    "share": 10.0918
+  },
+  {
+    "year": 2021,
+    "genre": "Crime",
+    "count": 1163,
+    "share": 2.4325
+  },
+  {
+    "year": 2021,
+    "genre": "Documentary",
+    "count": 9877,
+    "share": 20.6584
+  },
+  {
+    "year": 2021,
+    "genre": "Drama",
+    "count": 9793,
+    "share": 20.4827
+  },
+  {
+    "year": 2021,
+    "genre": "Family",
+    "count": 916,
+    "share": 1.9159
+  },
+  {
+    "year": 2021,
+    "genre": "Fantasy",
+    "count": 1154,
+    "share": 2.4137
+  },
+  {
+    "year": 2021,
+    "genre": "History",
+    "count": 674,
+    "share": 1.4097
+  },
+  {
+    "year": 2021,
+    "genre": "Horror",
+    "count": 2855,
+    "share": 5.9714
+  },
+  {
+    "year": 2021,
+    "genre": "Music",
+    "count": 2015,
+    "share": 4.2145
+  },
+  {
+    "year": 2021,
+    "genre": "Mystery",
+    "count": 1052,
+    "share": 2.2003
+  },
+  {
+    "year": 2021,
+    "genre": "Romance",
+    "count": 2067,
+    "share": 4.3233
+  },
+  {
+    "year": 2021,
+    "genre": "Science Fiction",
+    "count": 1216,
+    "share": 2.5433
+  },
+  {
+    "year": 2021,
+    "genre": "TV Movie",
+    "count": 956,
+    "share": 1.9995
+  },
+  {
+    "year": 2021,
+    "genre": "Thriller",
+    "count": 2367,
+    "share": 4.9507
+  },
+  {
+    "year": 2021,
+    "genre": "War",
+    "count": 246,
+    "share": 0.5145
+  },
+  {
+    "year": 2021,
+    "genre": "Western",
+    "count": 120,
+    "share": 0.251
+  },
+  {
+    "year": 2022,
+    "genre": "Action",
+    "count": 1880,
+    "share": 3.7604
+  },
+  {
+    "year": 2022,
+    "genre": "Adventure",
+    "count": 825,
+    "share": 1.6502
+  },
+  {
+    "year": 2022,
+    "genre": "Animation",
+    "count": 2639,
+    "share": 5.2785
+  },
+  {
+    "year": 2022,
+    "genre": "Comedy",
+    "count": 6046,
+    "share": 12.0932
+  },
+  {
+    "year": 2022,
+    "genre": "Crime",
+    "count": 1352,
+    "share": 2.7043
+  },
+  {
+    "year": 2022,
+    "genre": "Documentary",
+    "count": 9843,
+    "share": 19.688
+  },
+  {
+    "year": 2022,
+    "genre": "Drama",
+    "count": 11059,
+    "share": 22.1202
+  },
+  {
+    "year": 2022,
+    "genre": "Family",
+    "count": 1012,
+    "share": 2.0242
+  },
+  {
+    "year": 2022,
+    "genre": "Fantasy",
+    "count": 1306,
+    "share": 2.6123
+  },
+  {
+    "year": 2022,
+    "genre": "History",
+    "count": 688,
+    "share": 1.3761
+  },
+  {
+    "year": 2022,
+    "genre": "Horror",
+    "count": 3442,
+    "share": 6.8847
+  },
+  {
+    "year": 2022,
+    "genre": "Music",
+    "count": 2216,
+    "share": 4.4324
+  },
+  {
+    "year": 2022,
+    "genre": "Mystery",
+    "count": 1285,
+    "share": 2.5703
+  },
+  {
+    "year": 2022,
+    "genre": "Romance",
+    "count": 2340,
+    "share": 4.6805
+  },
+  {
+    "year": 2022,
+    "genre": "Science Fiction",
+    "count": 1218,
+    "share": 2.4362
+  },
+  {
+    "year": 2022,
+    "genre": "TV Movie",
+    "count": 938,
+    "share": 1.8762
+  },
+  {
+    "year": 2022,
+    "genre": "Thriller",
+    "count": 2890,
+    "share": 5.7806
+  },
+  {
+    "year": 2022,
+    "genre": "War",
+    "count": 256,
+    "share": 0.5121
+  },
+  {
+    "year": 2022,
+    "genre": "Western",
+    "count": 132,
+    "share": 0.264
+  },
+  {
+    "year": 2023,
+    "genre": "Action",
+    "count": 2286,
+    "share": 4.4243
+  },
+  {
+    "year": 2023,
+    "genre": "Adventure",
+    "count": 964,
+    "share": 1.8657
+  },
+  {
+    "year": 2023,
+    "genre": "Animation",
+    "count": 2697,
+    "share": 5.2198
+  },
+  {
+    "year": 2023,
+    "genre": "Comedy",
+    "count": 6623,
+    "share": 12.8181
+  },
+  {
+    "year": 2023,
+    "genre": "Crime",
+    "count": 1555,
+    "share": 3.0095
+  },
+  {
+    "year": 2023,
+    "genre": "Documentary",
+    "count": 9643,
+    "share": 18.663
+  },
+  {
+    "year": 2023,
+    "genre": "Drama",
+    "count": 11697,
+    "share": 22.6383
+  },
+  {
+    "year": 2023,
+    "genre": "Family",
+    "count": 1131,
+    "share": 2.1889
+  },
+  {
+    "year": 2023,
+    "genre": "Fantasy",
+    "count": 1307,
+    "share": 2.5296
+  },
+  {
+    "year": 2023,
+    "genre": "History",
+    "count": 676,
+    "share": 1.3083
+  },
+  {
+    "year": 2023,
+    "genre": "Horror",
+    "count": 3832,
+    "share": 7.4164
+  },
+  {
+    "year": 2023,
+    "genre": "Music",
+    "count": 2319,
+    "share": 4.4882
+  },
+  {
+    "year": 2023,
+    "genre": "Mystery",
+    "count": 1420,
+    "share": 2.7483
+  },
+  {
+    "year": 2023,
+    "genre": "Romance",
+    "count": 2390,
+    "share": 4.6256
+  },
+  {
+    "year": 2023,
+    "genre": "Science Fiction",
+    "count": 1341,
+    "share": 2.5954
+  },
+  {
+    "year": 2023,
+    "genre": "TV Movie",
+    "count": 746,
+    "share": 1.4438
+  },
+  {
+    "year": 2023,
+    "genre": "Thriller",
+    "count": 3229,
+    "share": 6.2494
+  },
+  {
+    "year": 2023,
+    "genre": "War",
+    "count": 294,
+    "share": 0.569
+  },
+  {
+    "year": 2023,
+    "genre": "Western",
+    "count": 155,
+    "share": 0.3
+  },
+  {
+    "year": 2024,
+    "genre": "Action",
+    "count": 1624,
+    "share": 3.8121
+  },
+  {
+    "year": 2024,
+    "genre": "Adventure",
+    "count": 873,
+    "share": 2.0492
+  },
+  {
+    "year": 2024,
+    "genre": "Animation",
+    "count": 2213,
+    "share": 5.1947
+  },
+  {
+    "year": 2024,
+    "genre": "Comedy",
+    "count": 5286,
+    "share": 12.4082
+  },
+  {
+    "year": 2024,
+    "genre": "Crime",
+    "count": 1177,
+    "share": 2.7628
+  },
+  {
+    "year": 2024,
+    "genre": "Documentary",
+    "count": 7328,
+    "share": 17.2015
+  },
+  {
+    "year": 2024,
+    "genre": "Drama",
+    "count": 8528,
+    "share": 20.0183
+  },
+  {
+    "year": 2024,
+    "genre": "Family",
+    "count": 792,
+    "share": 1.8591
+  },
+  {
+    "year": 2024,
+    "genre": "Fantasy",
+    "count": 1125,
+    "share": 2.6408
+  },
+  {
+    "year": 2024,
+    "genre": "History",
+    "count": 455,
+    "share": 1.0681
+  },
+  {
+    "year": 2024,
+    "genre": "Horror",
+    "count": 3316,
+    "share": 7.7839
+  },
+  {
+    "year": 2024,
+    "genre": "Music",
+    "count": 1978,
+    "share": 4.6431
+  },
+  {
+    "year": 2024,
+    "genre": "Mystery",
+    "count": 1226,
+    "share": 2.8779
+  },
+  {
+    "year": 2024,
+    "genre": "Romance",
+    "count": 1654,
+    "share": 3.8825
+  },
+  {
+    "year": 2024,
+    "genre": "Science Fiction",
+    "count": 1067,
+    "share": 2.5046
+  },
+  {
+    "year": 2024,
+    "genre": "TV Movie",
+    "count": 299,
+    "share": 0.7019
+  },
+  {
+    "year": 2024,
+    "genre": "Thriller",
+    "count": 2496,
+    "share": 5.859
+  },
+  {
+    "year": 2024,
+    "genre": "War",
+    "count": 193,
+    "share": 0.453
+  },
+  {
+    "year": 2024,
+    "genre": "Western",
+    "count": 133,
+    "share": 0.3122
+  },
+  {
+    "year": 2025,
+    "genre": "Action",
+    "count": 1577,
+    "share": 3.6705
+  },
+  {
+    "year": 2025,
+    "genre": "Adventure",
+    "count": 863,
+    "share": 2.0087
+  },
+  {
+    "year": 2025,
+    "genre": "Animation",
+    "count": 2265,
+    "share": 5.2719
+  },
+  {
+    "year": 2025,
+    "genre": "Comedy",
+    "count": 5367,
+    "share": 12.4919
+  },
+  {
+    "year": 2025,
+    "genre": "Crime",
+    "count": 1222,
+    "share": 2.8442
+  },
+  {
+    "year": 2025,
+    "genre": "Documentary",
+    "count": 7742,
+    "share": 18.0197
+  },
+  {
+    "year": 2025,
+    "genre": "Drama",
+    "count": 9111,
+    "share": 21.2061
+  },
+  {
+    "year": 2025,
+    "genre": "Family",
+    "count": 874,
+    "share": 2.0343
+  },
+  {
+    "year": 2025,
+    "genre": "Fantasy",
+    "count": 1194,
+    "share": 2.7791
+  },
+  {
+    "year": 2025,
+    "genre": "History",
+    "count": 478,
+    "share": 1.1126
+  },
+  {
+    "year": 2025,
+    "genre": "Horror",
+    "count": 3182,
+    "share": 7.4062
+  },
+  {
+    "year": 2025,
+    "genre": "Music",
+    "count": 2142,
+    "share": 4.9856
+  },
+  {
+    "year": 2025,
+    "genre": "Mystery",
+    "count": 1315,
+    "share": 3.0607
+  },
+  {
+    "year": 2025,
+    "genre": "Romance",
+    "count": 1980,
+    "share": 4.6085
+  },
+  {
+    "year": 2025,
+    "genre": "Science Fiction",
+    "count": 1088,
+    "share": 2.5324
+  },
+  {
+    "year": 2025,
+    "genre": "TV Movie",
+    "count": 266,
+    "share": 0.6191
+  },
+  {
+    "year": 2025,
+    "genre": "Thriller",
+    "count": 2583,
+    "share": 6.012
+  },
+  {
+    "year": 2025,
+    "genre": "War",
+    "count": 264,
+    "share": 0.6145
+  },
+  {
+    "year": 2025,
+    "genre": "Western",
+    "count": 153,
+    "share": 0.3561
+  }
+]

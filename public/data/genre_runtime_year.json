@@ -1,0 +1,3954 @@
+[
+  {
+    "year": 2000,
+    "genre": "Action",
+    "n": 445,
+    "median_runtime": 95.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2000,
+    "genre": "Adventure",
+    "n": 163,
+    "median_runtime": 90.0,
+    "q1_runtime": 83.5,
+    "q3_runtime": 101.0
+  },
+  {
+    "year": 2000,
+    "genre": "Animation",
+    "n": 176,
+    "median_runtime": 72.0,
+    "q1_runtime": 45.0,
+    "q3_runtime": 86.5
+  },
+  {
+    "year": 2000,
+    "genre": "Comedy",
+    "n": 950,
+    "median_runtime": 92.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2000,
+    "genre": "Crime",
+    "n": 318,
+    "median_runtime": 97.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2000,
+    "genre": "Documentary",
+    "n": 1010,
+    "median_runtime": 59.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 85.0
+  },
+  {
+    "year": 2000,
+    "genre": "Drama",
+    "n": 1545,
+    "median_runtime": 96.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2000,
+    "genre": "Family",
+    "n": 264,
+    "median_runtime": 88.0,
+    "q1_runtime": 71.75,
+    "q3_runtime": 97.0
+  },
+  {
+    "year": 2000,
+    "genre": "Fantasy",
+    "n": 171,
+    "median_runtime": 90.0,
+    "q1_runtime": 82.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2000,
+    "genre": "History",
+    "n": 113,
+    "median_runtime": 96.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2000,
+    "genre": "Horror",
+    "n": 352,
+    "median_runtime": 87.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2000,
+    "genre": "Music",
+    "n": 347,
+    "median_runtime": 90.0,
+    "q1_runtime": 70.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2000,
+    "genre": "Mystery",
+    "n": 138,
+    "median_runtime": 95.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2000,
+    "genre": "Romance",
+    "n": 484,
+    "median_runtime": 98.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2000,
+    "genre": "Science Fiction",
+    "n": 137,
+    "median_runtime": 90.0,
+    "q1_runtime": 79.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2000,
+    "genre": "TV Movie",
+    "n": 307,
+    "median_runtime": 90.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 97.0
+  },
+  {
+    "year": 2000,
+    "genre": "Thriller",
+    "n": 417,
+    "median_runtime": 95.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2000,
+    "genre": "War",
+    "n": 51,
+    "median_runtime": 100.0,
+    "q1_runtime": 88.5,
+    "q3_runtime": 116.5
+  },
+  {
+    "year": 2000,
+    "genre": "Western",
+    "n": 15,
+    "median_runtime": 97.0,
+    "q1_runtime": 92.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2001,
+    "genre": "Action",
+    "n": 509,
+    "median_runtime": 95.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2001,
+    "genre": "Adventure",
+    "n": 163,
+    "median_runtime": 91.0,
+    "q1_runtime": 81.5,
+    "q3_runtime": 99.5
+  },
+  {
+    "year": 2001,
+    "genre": "Animation",
+    "n": 185,
+    "median_runtime": 69.0,
+    "q1_runtime": 49.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2001,
+    "genre": "Comedy",
+    "n": 995,
+    "median_runtime": 93.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2001,
+    "genre": "Crime",
+    "n": 338,
+    "median_runtime": 96.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2001,
+    "genre": "Documentary",
+    "n": 1185,
+    "median_runtime": 59.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 84.0
+  },
+  {
+    "year": 2001,
+    "genre": "Drama",
+    "n": 1673,
+    "median_runtime": 97.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2001,
+    "genre": "Family",
+    "n": 253,
+    "median_runtime": 90.0,
+    "q1_runtime": 74.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2001,
+    "genre": "Fantasy",
+    "n": 159,
+    "median_runtime": 90.0,
+    "q1_runtime": 79.5,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2001,
+    "genre": "History",
+    "n": 130,
+    "median_runtime": 93.0,
+    "q1_runtime": 64.5,
+    "q3_runtime": 123.5
+  },
+  {
+    "year": 2001,
+    "genre": "Horror",
+    "n": 358,
+    "median_runtime": 88.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2001,
+    "genre": "Music",
+    "n": 440,
+    "median_runtime": 90.0,
+    "q1_runtime": 63.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2001,
+    "genre": "Mystery",
+    "n": 150,
+    "median_runtime": 96.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 108.25
+  },
+  {
+    "year": 2001,
+    "genre": "Romance",
+    "n": 543,
+    "median_runtime": 99.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 112.5
+  },
+  {
+    "year": 2001,
+    "genre": "Science Fiction",
+    "n": 173,
+    "median_runtime": 90.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 97.0
+  },
+  {
+    "year": 2001,
+    "genre": "TV Movie",
+    "n": 292,
+    "median_runtime": 90.0,
+    "q1_runtime": 82.75,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2001,
+    "genre": "Thriller",
+    "n": 430,
+    "median_runtime": 95.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2001,
+    "genre": "War",
+    "n": 92,
+    "median_runtime": 101.0,
+    "q1_runtime": 69.25,
+    "q3_runtime": 121.25
+  },
+  {
+    "year": 2001,
+    "genre": "Western",
+    "n": 11,
+    "median_runtime": 94.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2002,
+    "genre": "Action",
+    "n": 482,
+    "median_runtime": 95.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 115.75
+  },
+  {
+    "year": 2002,
+    "genre": "Adventure",
+    "n": 173,
+    "median_runtime": 90.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2002,
+    "genre": "Animation",
+    "n": 188,
+    "median_runtime": 74.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 86.0
+  },
+  {
+    "year": 2002,
+    "genre": "Comedy",
+    "n": 1058,
+    "median_runtime": 92.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2002,
+    "genre": "Crime",
+    "n": 313,
+    "median_runtime": 95.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2002,
+    "genre": "Documentary",
+    "n": 1373,
+    "median_runtime": 60.0,
+    "q1_runtime": 51.0,
+    "q3_runtime": 89.0
+  },
+  {
+    "year": 2002,
+    "genre": "Drama",
+    "n": 1744,
+    "median_runtime": 96.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2002,
+    "genre": "Family",
+    "n": 280,
+    "median_runtime": 86.0,
+    "q1_runtime": 72.0,
+    "q3_runtime": 99.25
+  },
+  {
+    "year": 2002,
+    "genre": "Fantasy",
+    "n": 163,
+    "median_runtime": 93.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2002,
+    "genre": "History",
+    "n": 136,
+    "median_runtime": 94.0,
+    "q1_runtime": 58.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2002,
+    "genre": "Horror",
+    "n": 381,
+    "median_runtime": 89.0,
+    "q1_runtime": 79.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2002,
+    "genre": "Music",
+    "n": 507,
+    "median_runtime": 90.0,
+    "q1_runtime": 65.0,
+    "q3_runtime": 117.5
+  },
+  {
+    "year": 2002,
+    "genre": "Mystery",
+    "n": 154,
+    "median_runtime": 95.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2002,
+    "genre": "Romance",
+    "n": 559,
+    "median_runtime": 97.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2002,
+    "genre": "Science Fiction",
+    "n": 154,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 98.75
+  },
+  {
+    "year": 2002,
+    "genre": "TV Movie",
+    "n": 292,
+    "median_runtime": 90.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2002,
+    "genre": "Thriller",
+    "n": 453,
+    "median_runtime": 95.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2002,
+    "genre": "War",
+    "n": 70,
+    "median_runtime": 97.5,
+    "q1_runtime": 80.75,
+    "q3_runtime": 113.75
+  },
+  {
+    "year": 2002,
+    "genre": "Western",
+    "n": 16,
+    "median_runtime": 100.0,
+    "q1_runtime": 90.5,
+    "q3_runtime": 108.5
+  },
+  {
+    "year": 2003,
+    "genre": "Action",
+    "n": 543,
+    "median_runtime": 95.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 116.0
+  },
+  {
+    "year": 2003,
+    "genre": "Adventure",
+    "n": 211,
+    "median_runtime": 92.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2003,
+    "genre": "Animation",
+    "n": 245,
+    "median_runtime": 70.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 85.0
+  },
+  {
+    "year": 2003,
+    "genre": "Comedy",
+    "n": 1188,
+    "median_runtime": 92.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2003,
+    "genre": "Crime",
+    "n": 331,
+    "median_runtime": 96.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2003,
+    "genre": "Documentary",
+    "n": 1492,
+    "median_runtime": 60.0,
+    "q1_runtime": 52.0,
+    "q3_runtime": 89.0
+  },
+  {
+    "year": 2003,
+    "genre": "Drama",
+    "n": 1841,
+    "median_runtime": 98.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2003,
+    "genre": "Family",
+    "n": 312,
+    "median_runtime": 85.5,
+    "q1_runtime": 61.75,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2003,
+    "genre": "Fantasy",
+    "n": 164,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2003,
+    "genre": "History",
+    "n": 168,
+    "median_runtime": 92.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2003,
+    "genre": "Horror",
+    "n": 433,
+    "median_runtime": 87.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2003,
+    "genre": "Music",
+    "n": 648,
+    "median_runtime": 87.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2003,
+    "genre": "Mystery",
+    "n": 139,
+    "median_runtime": 98.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 111.5
+  },
+  {
+    "year": 2003,
+    "genre": "Romance",
+    "n": 596,
+    "median_runtime": 101.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2003,
+    "genre": "Science Fiction",
+    "n": 174,
+    "median_runtime": 88.5,
+    "q1_runtime": 79.25,
+    "q3_runtime": 103.75
+  },
+  {
+    "year": 2003,
+    "genre": "TV Movie",
+    "n": 308,
+    "median_runtime": 90.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2003,
+    "genre": "Thriller",
+    "n": 436,
+    "median_runtime": 95.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2003,
+    "genre": "War",
+    "n": 73,
+    "median_runtime": 93.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 127.0
+  },
+  {
+    "year": 2003,
+    "genre": "Western",
+    "n": 25,
+    "median_runtime": 90.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2004,
+    "genre": "Action",
+    "n": 511,
+    "median_runtime": 96.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 125.0
+  },
+  {
+    "year": 2004,
+    "genre": "Adventure",
+    "n": 190,
+    "median_runtime": 92.0,
+    "q1_runtime": 82.25,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2004,
+    "genre": "Animation",
+    "n": 269,
+    "median_runtime": 72.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 87.0
+  },
+  {
+    "year": 2004,
+    "genre": "Comedy",
+    "n": 1242,
+    "median_runtime": 93.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2004,
+    "genre": "Crime",
+    "n": 304,
+    "median_runtime": 96.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 109.0
+  },
+  {
+    "year": 2004,
+    "genre": "Documentary",
+    "n": 1754,
+    "median_runtime": 65.0,
+    "q1_runtime": 52.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2004,
+    "genre": "Drama",
+    "n": 1815,
+    "median_runtime": 96.0,
+    "q1_runtime": 88.5,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2004,
+    "genre": "Family",
+    "n": 317,
+    "median_runtime": 84.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 97.0
+  },
+  {
+    "year": 2004,
+    "genre": "Fantasy",
+    "n": 177,
+    "median_runtime": 93.0,
+    "q1_runtime": 82.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2004,
+    "genre": "History",
+    "n": 171,
+    "median_runtime": 90.0,
+    "q1_runtime": 59.5,
+    "q3_runtime": 120.5
+  },
+  {
+    "year": 2004,
+    "genre": "Horror",
+    "n": 536,
+    "median_runtime": 88.5,
+    "q1_runtime": 79.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2004,
+    "genre": "Music",
+    "n": 802,
+    "median_runtime": 90.0,
+    "q1_runtime": 60.25,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2004,
+    "genre": "Mystery",
+    "n": 160,
+    "median_runtime": 97.0,
+    "q1_runtime": 88.75,
+    "q3_runtime": 108.5
+  },
+  {
+    "year": 2004,
+    "genre": "Romance",
+    "n": 580,
+    "median_runtime": 101.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 115.25
+  },
+  {
+    "year": 2004,
+    "genre": "Science Fiction",
+    "n": 168,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 98.25
+  },
+  {
+    "year": 2004,
+    "genre": "TV Movie",
+    "n": 286,
+    "median_runtime": 90.0,
+    "q1_runtime": 74.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2004,
+    "genre": "Thriller",
+    "n": 427,
+    "median_runtime": 96.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2004,
+    "genre": "War",
+    "n": 85,
+    "median_runtime": 93.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 122.0
+  },
+  {
+    "year": 2004,
+    "genre": "Western",
+    "n": 16,
+    "median_runtime": 89.5,
+    "q1_runtime": 71.5,
+    "q3_runtime": 101.0
+  },
+  {
+    "year": 2005,
+    "genre": "Action",
+    "n": 542,
+    "median_runtime": 95.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 119.0
+  },
+  {
+    "year": 2005,
+    "genre": "Adventure",
+    "n": 232,
+    "median_runtime": 92.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2005,
+    "genre": "Animation",
+    "n": 303,
+    "median_runtime": 70.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 87.0
+  },
+  {
+    "year": 2005,
+    "genre": "Comedy",
+    "n": 1363,
+    "median_runtime": 93.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2005,
+    "genre": "Crime",
+    "n": 323,
+    "median_runtime": 96.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 111.5
+  },
+  {
+    "year": 2005,
+    "genre": "Documentary",
+    "n": 1877,
+    "median_runtime": 70.0,
+    "q1_runtime": 52.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2005,
+    "genre": "Drama",
+    "n": 2043,
+    "median_runtime": 97.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2005,
+    "genre": "Family",
+    "n": 367,
+    "median_runtime": 83.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2005,
+    "genre": "Fantasy",
+    "n": 194,
+    "median_runtime": 92.0,
+    "q1_runtime": 75.25,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2005,
+    "genre": "History",
+    "n": 191,
+    "median_runtime": 93.0,
+    "q1_runtime": 73.5,
+    "q3_runtime": 116.5
+  },
+  {
+    "year": 2005,
+    "genre": "Horror",
+    "n": 609,
+    "median_runtime": 88.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2005,
+    "genre": "Music",
+    "n": 822,
+    "median_runtime": 88.5,
+    "q1_runtime": 62.0,
+    "q3_runtime": 118.75
+  },
+  {
+    "year": 2005,
+    "genre": "Mystery",
+    "n": 197,
+    "median_runtime": 95.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2005,
+    "genre": "Romance",
+    "n": 644,
+    "median_runtime": 98.5,
+    "q1_runtime": 90.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2005,
+    "genre": "Science Fiction",
+    "n": 193,
+    "median_runtime": 90.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2005,
+    "genre": "TV Movie",
+    "n": 315,
+    "median_runtime": 90.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2005,
+    "genre": "Thriller",
+    "n": 520,
+    "median_runtime": 94.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2005,
+    "genre": "War",
+    "n": 100,
+    "median_runtime": 90.0,
+    "q1_runtime": 77.5,
+    "q3_runtime": 114.0
+  },
+  {
+    "year": 2005,
+    "genre": "Western",
+    "n": 19,
+    "median_runtime": 100.0,
+    "q1_runtime": 84.5,
+    "q3_runtime": 114.5
+  },
+  {
+    "year": 2006,
+    "genre": "Action",
+    "n": 568,
+    "median_runtime": 98.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 123.25
+  },
+  {
+    "year": 2006,
+    "genre": "Adventure",
+    "n": 270,
+    "median_runtime": 90.0,
+    "q1_runtime": 77.25,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2006,
+    "genre": "Animation",
+    "n": 299,
+    "median_runtime": 73.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 89.0
+  },
+  {
+    "year": 2006,
+    "genre": "Comedy",
+    "n": 1416,
+    "median_runtime": 93.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2006,
+    "genre": "Crime",
+    "n": 354,
+    "median_runtime": 98.0,
+    "q1_runtime": 89.25,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2006,
+    "genre": "Documentary",
+    "n": 2091,
+    "median_runtime": 70.0,
+    "q1_runtime": 52.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2006,
+    "genre": "Drama",
+    "n": 2261,
+    "median_runtime": 97.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2006,
+    "genre": "Family",
+    "n": 357,
+    "median_runtime": 87.0,
+    "q1_runtime": 68.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2006,
+    "genre": "Fantasy",
+    "n": 203,
+    "median_runtime": 95.0,
+    "q1_runtime": 83.5,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2006,
+    "genre": "History",
+    "n": 224,
+    "median_runtime": 90.0,
+    "q1_runtime": 58.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2006,
+    "genre": "Horror",
+    "n": 719,
+    "median_runtime": 88.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2006,
+    "genre": "Music",
+    "n": 849,
+    "median_runtime": 90.0,
+    "q1_runtime": 65.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2006,
+    "genre": "Mystery",
+    "n": 218,
+    "median_runtime": 94.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2006,
+    "genre": "Romance",
+    "n": 678,
+    "median_runtime": 100.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2006,
+    "genre": "Science Fiction",
+    "n": 192,
+    "median_runtime": 90.0,
+    "q1_runtime": 82.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2006,
+    "genre": "TV Movie",
+    "n": 348,
+    "median_runtime": 89.0,
+    "q1_runtime": 73.0,
+    "q3_runtime": 93.0
+  },
+  {
+    "year": 2006,
+    "genre": "Thriller",
+    "n": 641,
+    "median_runtime": 94.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2006,
+    "genre": "War",
+    "n": 94,
+    "median_runtime": 92.0,
+    "q1_runtime": 72.25,
+    "q3_runtime": 114.75
+  },
+  {
+    "year": 2006,
+    "genre": "Western",
+    "n": 16,
+    "median_runtime": 88.0,
+    "q1_runtime": 77.75,
+    "q3_runtime": 93.0
+  },
+  {
+    "year": 2007,
+    "genre": "Action",
+    "n": 617,
+    "median_runtime": 94.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2007,
+    "genre": "Adventure",
+    "n": 259,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 101.5
+  },
+  {
+    "year": 2007,
+    "genre": "Animation",
+    "n": 291,
+    "median_runtime": 76.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2007,
+    "genre": "Comedy",
+    "n": 1521,
+    "median_runtime": 92.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2007,
+    "genre": "Crime",
+    "n": 379,
+    "median_runtime": 94.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 109.0
+  },
+  {
+    "year": 2007,
+    "genre": "Documentary",
+    "n": 2175,
+    "median_runtime": 72.0,
+    "q1_runtime": 53.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2007,
+    "genre": "Drama",
+    "n": 2331,
+    "median_runtime": 96.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2007,
+    "genre": "Family",
+    "n": 382,
+    "median_runtime": 86.0,
+    "q1_runtime": 68.5,
+    "q3_runtime": 97.0
+  },
+  {
+    "year": 2007,
+    "genre": "Fantasy",
+    "n": 218,
+    "median_runtime": 91.0,
+    "q1_runtime": 80.25,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2007,
+    "genre": "History",
+    "n": 207,
+    "median_runtime": 95.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 118.5
+  },
+  {
+    "year": 2007,
+    "genre": "Horror",
+    "n": 743,
+    "median_runtime": 89.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2007,
+    "genre": "Music",
+    "n": 810,
+    "median_runtime": 88.0,
+    "q1_runtime": 61.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2007,
+    "genre": "Mystery",
+    "n": 245,
+    "median_runtime": 92.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2007,
+    "genre": "Romance",
+    "n": 708,
+    "median_runtime": 98.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2007,
+    "genre": "Science Fiction",
+    "n": 220,
+    "median_runtime": 90.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 97.25
+  },
+  {
+    "year": 2007,
+    "genre": "TV Movie",
+    "n": 311,
+    "median_runtime": 90.0,
+    "q1_runtime": 78.5,
+    "q3_runtime": 93.0
+  },
+  {
+    "year": 2007,
+    "genre": "Thriller",
+    "n": 655,
+    "median_runtime": 93.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2007,
+    "genre": "War",
+    "n": 83,
+    "median_runtime": 95.0,
+    "q1_runtime": 84.5,
+    "q3_runtime": 114.0
+  },
+  {
+    "year": 2007,
+    "genre": "Western",
+    "n": 20,
+    "median_runtime": 90.5,
+    "q1_runtime": 86.5,
+    "q3_runtime": 101.75
+  },
+  {
+    "year": 2008,
+    "genre": "Action",
+    "n": 718,
+    "median_runtime": 94.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2008,
+    "genre": "Adventure",
+    "n": 313,
+    "median_runtime": 91.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2008,
+    "genre": "Animation",
+    "n": 279,
+    "median_runtime": 78.0,
+    "q1_runtime": 58.0,
+    "q3_runtime": 92.0
+  },
+  {
+    "year": 2008,
+    "genre": "Comedy",
+    "n": 1568,
+    "median_runtime": 92.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2008,
+    "genre": "Crime",
+    "n": 375,
+    "median_runtime": 95.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2008,
+    "genre": "Documentary",
+    "n": 2354,
+    "median_runtime": 72.0,
+    "q1_runtime": 52.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2008,
+    "genre": "Drama",
+    "n": 2490,
+    "median_runtime": 96.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2008,
+    "genre": "Family",
+    "n": 398,
+    "median_runtime": 88.5,
+    "q1_runtime": 72.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2008,
+    "genre": "Fantasy",
+    "n": 214,
+    "median_runtime": 91.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 105.75
+  },
+  {
+    "year": 2008,
+    "genre": "History",
+    "n": 224,
+    "median_runtime": 95.0,
+    "q1_runtime": 62.75,
+    "q3_runtime": 116.0
+  },
+  {
+    "year": 2008,
+    "genre": "Horror",
+    "n": 719,
+    "median_runtime": 87.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 94.0
+  },
+  {
+    "year": 2008,
+    "genre": "Music",
+    "n": 837,
+    "median_runtime": 90.0,
+    "q1_runtime": 66.0,
+    "q3_runtime": 119.0
+  },
+  {
+    "year": 2008,
+    "genre": "Mystery",
+    "n": 234,
+    "median_runtime": 93.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2008,
+    "genre": "Romance",
+    "n": 774,
+    "median_runtime": 100.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 115.75
+  },
+  {
+    "year": 2008,
+    "genre": "Science Fiction",
+    "n": 244,
+    "median_runtime": 88.0,
+    "q1_runtime": 77.75,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2008,
+    "genre": "TV Movie",
+    "n": 304,
+    "median_runtime": 89.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 91.0
+  },
+  {
+    "year": 2008,
+    "genre": "Thriller",
+    "n": 699,
+    "median_runtime": 92.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2008,
+    "genre": "War",
+    "n": 105,
+    "median_runtime": 100.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2008,
+    "genre": "Western",
+    "n": 27,
+    "median_runtime": 89.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 99.5
+  },
+  {
+    "year": 2009,
+    "genre": "Action",
+    "n": 687,
+    "median_runtime": 94.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2009,
+    "genre": "Adventure",
+    "n": 320,
+    "median_runtime": 91.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 101.25
+  },
+  {
+    "year": 2009,
+    "genre": "Animation",
+    "n": 285,
+    "median_runtime": 75.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 93.0
+  },
+  {
+    "year": 2009,
+    "genre": "Comedy",
+    "n": 1718,
+    "median_runtime": 92.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2009,
+    "genre": "Crime",
+    "n": 379,
+    "median_runtime": 94.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2009,
+    "genre": "Documentary",
+    "n": 2424,
+    "median_runtime": 72.0,
+    "q1_runtime": 53.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2009,
+    "genre": "Drama",
+    "n": 2640,
+    "median_runtime": 95.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2009,
+    "genre": "Family",
+    "n": 386,
+    "median_runtime": 87.0,
+    "q1_runtime": 63.5,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2009,
+    "genre": "Fantasy",
+    "n": 254,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 104.75
+  },
+  {
+    "year": 2009,
+    "genre": "History",
+    "n": 246,
+    "median_runtime": 91.0,
+    "q1_runtime": 70.0,
+    "q3_runtime": 112.25
+  },
+  {
+    "year": 2009,
+    "genre": "Horror",
+    "n": 820,
+    "median_runtime": 87.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 94.0
+  },
+  {
+    "year": 2009,
+    "genre": "Music",
+    "n": 798,
+    "median_runtime": 90.0,
+    "q1_runtime": 65.0,
+    "q3_runtime": 118.0
+  },
+  {
+    "year": 2009,
+    "genre": "Mystery",
+    "n": 237,
+    "median_runtime": 94.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 109.0
+  },
+  {
+    "year": 2009,
+    "genre": "Romance",
+    "n": 821,
+    "median_runtime": 99.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 118.0
+  },
+  {
+    "year": 2009,
+    "genre": "Science Fiction",
+    "n": 279,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 100.5
+  },
+  {
+    "year": 2009,
+    "genre": "TV Movie",
+    "n": 305,
+    "median_runtime": 90.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2009,
+    "genre": "Thriller",
+    "n": 814,
+    "median_runtime": 92.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2009,
+    "genre": "War",
+    "n": 91,
+    "median_runtime": 93.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2009,
+    "genre": "Western",
+    "n": 36,
+    "median_runtime": 90.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 98.5
+  },
+  {
+    "year": 2010,
+    "genre": "Action",
+    "n": 709,
+    "median_runtime": 95.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 117.0
+  },
+  {
+    "year": 2010,
+    "genre": "Adventure",
+    "n": 285,
+    "median_runtime": 90.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2010,
+    "genre": "Animation",
+    "n": 316,
+    "median_runtime": 75.5,
+    "q1_runtime": 52.75,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2010,
+    "genre": "Comedy",
+    "n": 1711,
+    "median_runtime": 92.0,
+    "q1_runtime": 82.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2010,
+    "genre": "Crime",
+    "n": 376,
+    "median_runtime": 95.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2010,
+    "genre": "Documentary",
+    "n": 2454,
+    "median_runtime": 70.0,
+    "q1_runtime": 52.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2010,
+    "genre": "Drama",
+    "n": 2597,
+    "median_runtime": 96.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2010,
+    "genre": "Family",
+    "n": 401,
+    "median_runtime": 88.0,
+    "q1_runtime": 72.0,
+    "q3_runtime": 97.0
+  },
+  {
+    "year": 2010,
+    "genre": "Fantasy",
+    "n": 243,
+    "median_runtime": 90.0,
+    "q1_runtime": 79.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2010,
+    "genre": "History",
+    "n": 238,
+    "median_runtime": 90.0,
+    "q1_runtime": 65.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2010,
+    "genre": "Horror",
+    "n": 779,
+    "median_runtime": 86.0,
+    "q1_runtime": 76.0,
+    "q3_runtime": 94.0
+  },
+  {
+    "year": 2010,
+    "genre": "Music",
+    "n": 739,
+    "median_runtime": 90.0,
+    "q1_runtime": 65.0,
+    "q3_runtime": 119.0
+  },
+  {
+    "year": 2010,
+    "genre": "Mystery",
+    "n": 255,
+    "median_runtime": 92.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2010,
+    "genre": "Romance",
+    "n": 826,
+    "median_runtime": 100.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 117.0
+  },
+  {
+    "year": 2010,
+    "genre": "Science Fiction",
+    "n": 288,
+    "median_runtime": 90.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2010,
+    "genre": "TV Movie",
+    "n": 278,
+    "median_runtime": 88.0,
+    "q1_runtime": 71.25,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2010,
+    "genre": "Thriller",
+    "n": 756,
+    "median_runtime": 93.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2010,
+    "genre": "War",
+    "n": 115,
+    "median_runtime": 93.0,
+    "q1_runtime": 79.5,
+    "q3_runtime": 110.5
+  },
+  {
+    "year": 2010,
+    "genre": "Western",
+    "n": 23,
+    "median_runtime": 95.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2011,
+    "genre": "Action",
+    "n": 721,
+    "median_runtime": 97.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 119.0
+  },
+  {
+    "year": 2011,
+    "genre": "Adventure",
+    "n": 311,
+    "median_runtime": 90.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2011,
+    "genre": "Animation",
+    "n": 306,
+    "median_runtime": 75.0,
+    "q1_runtime": 53.5,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2011,
+    "genre": "Comedy",
+    "n": 1762,
+    "median_runtime": 92.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2011,
+    "genre": "Crime",
+    "n": 392,
+    "median_runtime": 93.5,
+    "q1_runtime": 87.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2011,
+    "genre": "Documentary",
+    "n": 2686,
+    "median_runtime": 72.0,
+    "q1_runtime": 53.0,
+    "q3_runtime": 89.0
+  },
+  {
+    "year": 2011,
+    "genre": "Drama",
+    "n": 2779,
+    "median_runtime": 95.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 109.0
+  },
+  {
+    "year": 2011,
+    "genre": "Family",
+    "n": 446,
+    "median_runtime": 87.0,
+    "q1_runtime": 72.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2011,
+    "genre": "Fantasy",
+    "n": 255,
+    "median_runtime": 90.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2011,
+    "genre": "History",
+    "n": 271,
+    "median_runtime": 87.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 105.5
+  },
+  {
+    "year": 2011,
+    "genre": "Horror",
+    "n": 824,
+    "median_runtime": 85.0,
+    "q1_runtime": 75.75,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2011,
+    "genre": "Music",
+    "n": 849,
+    "median_runtime": 89.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2011,
+    "genre": "Mystery",
+    "n": 264,
+    "median_runtime": 92.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 106.25
+  },
+  {
+    "year": 2011,
+    "genre": "Romance",
+    "n": 822,
+    "median_runtime": 99.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 118.0
+  },
+  {
+    "year": 2011,
+    "genre": "Science Fiction",
+    "n": 274,
+    "median_runtime": 88.0,
+    "q1_runtime": 74.0,
+    "q3_runtime": 98.75
+  },
+  {
+    "year": 2011,
+    "genre": "TV Movie",
+    "n": 309,
+    "median_runtime": 88.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2011,
+    "genre": "Thriller",
+    "n": 768,
+    "median_runtime": 92.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2011,
+    "genre": "War",
+    "n": 129,
+    "median_runtime": 98.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 117.0
+  },
+  {
+    "year": 2011,
+    "genre": "Western",
+    "n": 28,
+    "median_runtime": 90.0,
+    "q1_runtime": 84.25,
+    "q3_runtime": 101.25
+  },
+  {
+    "year": 2012,
+    "genre": "Action",
+    "n": 709,
+    "median_runtime": 95.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2012,
+    "genre": "Adventure",
+    "n": 316,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2012,
+    "genre": "Animation",
+    "n": 321,
+    "median_runtime": 80.0,
+    "q1_runtime": 63.0,
+    "q3_runtime": 92.0
+  },
+  {
+    "year": 2012,
+    "genre": "Comedy",
+    "n": 1906,
+    "median_runtime": 91.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2012,
+    "genre": "Crime",
+    "n": 413,
+    "median_runtime": 93.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2012,
+    "genre": "Documentary",
+    "n": 2963,
+    "median_runtime": 73.0,
+    "q1_runtime": 53.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2012,
+    "genre": "Drama",
+    "n": 2921,
+    "median_runtime": 95.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 109.0
+  },
+  {
+    "year": 2012,
+    "genre": "Family",
+    "n": 401,
+    "median_runtime": 90.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 97.0
+  },
+  {
+    "year": 2012,
+    "genre": "Fantasy",
+    "n": 256,
+    "median_runtime": 93.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 108.25
+  },
+  {
+    "year": 2012,
+    "genre": "History",
+    "n": 284,
+    "median_runtime": 90.0,
+    "q1_runtime": 61.5,
+    "q3_runtime": 110.25
+  },
+  {
+    "year": 2012,
+    "genre": "Horror",
+    "n": 912,
+    "median_runtime": 85.0,
+    "q1_runtime": 74.0,
+    "q3_runtime": 93.0
+  },
+  {
+    "year": 2012,
+    "genre": "Music",
+    "n": 854,
+    "median_runtime": 90.0,
+    "q1_runtime": 63.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2012,
+    "genre": "Mystery",
+    "n": 266,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.25,
+    "q3_runtime": 104.75
+  },
+  {
+    "year": 2012,
+    "genre": "Romance",
+    "n": 902,
+    "median_runtime": 100.0,
+    "q1_runtime": 90.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2012,
+    "genre": "Science Fiction",
+    "n": 308,
+    "median_runtime": 89.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 99.0
+  },
+  {
+    "year": 2012,
+    "genre": "TV Movie",
+    "n": 291,
+    "median_runtime": 88.0,
+    "q1_runtime": 80.5,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2012,
+    "genre": "Thriller",
+    "n": 783,
+    "median_runtime": 92.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2012,
+    "genre": "War",
+    "n": 121,
+    "median_runtime": 95.0,
+    "q1_runtime": 82.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2012,
+    "genre": "Western",
+    "n": 31,
+    "median_runtime": 90.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2013,
+    "genre": "Action",
+    "n": 743,
+    "median_runtime": 97.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 120.5
+  },
+  {
+    "year": 2013,
+    "genre": "Adventure",
+    "n": 375,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2013,
+    "genre": "Animation",
+    "n": 309,
+    "median_runtime": 80.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 94.0
+  },
+  {
+    "year": 2013,
+    "genre": "Comedy",
+    "n": 2030,
+    "median_runtime": 92.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2013,
+    "genre": "Crime",
+    "n": 488,
+    "median_runtime": 94.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2013,
+    "genre": "Documentary",
+    "n": 3180,
+    "median_runtime": 72.0,
+    "q1_runtime": 55.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2013,
+    "genre": "Drama",
+    "n": 3357,
+    "median_runtime": 94.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2013,
+    "genre": "Family",
+    "n": 439,
+    "median_runtime": 88.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 99.0
+  },
+  {
+    "year": 2013,
+    "genre": "Fantasy",
+    "n": 296,
+    "median_runtime": 91.0,
+    "q1_runtime": 79.0,
+    "q3_runtime": 106.25
+  },
+  {
+    "year": 2013,
+    "genre": "History",
+    "n": 308,
+    "median_runtime": 90.0,
+    "q1_runtime": 64.75,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2013,
+    "genre": "Horror",
+    "n": 988,
+    "median_runtime": 84.0,
+    "q1_runtime": 73.0,
+    "q3_runtime": 93.0
+  },
+  {
+    "year": 2013,
+    "genre": "Music",
+    "n": 836,
+    "median_runtime": 91.5,
+    "q1_runtime": 67.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2013,
+    "genre": "Mystery",
+    "n": 290,
+    "median_runtime": 90.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 102.75
+  },
+  {
+    "year": 2013,
+    "genre": "Romance",
+    "n": 947,
+    "median_runtime": 98.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2013,
+    "genre": "Science Fiction",
+    "n": 308,
+    "median_runtime": 89.0,
+    "q1_runtime": 79.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2013,
+    "genre": "TV Movie",
+    "n": 315,
+    "median_runtime": 87.0,
+    "q1_runtime": 67.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2013,
+    "genre": "Thriller",
+    "n": 952,
+    "median_runtime": 92.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2013,
+    "genre": "War",
+    "n": 104,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 106.25
+  },
+  {
+    "year": 2013,
+    "genre": "Western",
+    "n": 25,
+    "median_runtime": 95.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2014,
+    "genre": "Action",
+    "n": 755,
+    "median_runtime": 99.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2014,
+    "genre": "Adventure",
+    "n": 420,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2014,
+    "genre": "Animation",
+    "n": 319,
+    "median_runtime": 80.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 92.0
+  },
+  {
+    "year": 2014,
+    "genre": "Comedy",
+    "n": 2209,
+    "median_runtime": 92.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2014,
+    "genre": "Crime",
+    "n": 497,
+    "median_runtime": 95.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2014,
+    "genre": "Documentary",
+    "n": 3473,
+    "median_runtime": 74.0,
+    "q1_runtime": 54.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2014,
+    "genre": "Drama",
+    "n": 3517,
+    "median_runtime": 95.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2014,
+    "genre": "Family",
+    "n": 512,
+    "median_runtime": 88.0,
+    "q1_runtime": 76.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2014,
+    "genre": "Fantasy",
+    "n": 322,
+    "median_runtime": 91.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2014,
+    "genre": "History",
+    "n": 371,
+    "median_runtime": 90.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2014,
+    "genre": "Horror",
+    "n": 1123,
+    "median_runtime": 85.0,
+    "q1_runtime": 73.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2014,
+    "genre": "Music",
+    "n": 860,
+    "median_runtime": 90.0,
+    "q1_runtime": 65.75,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2014,
+    "genre": "Mystery",
+    "n": 385,
+    "median_runtime": 91.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2014,
+    "genre": "Romance",
+    "n": 1107,
+    "median_runtime": 99.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2014,
+    "genre": "Science Fiction",
+    "n": 355,
+    "median_runtime": 90.0,
+    "q1_runtime": 76.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2014,
+    "genre": "TV Movie",
+    "n": 386,
+    "median_runtime": 86.0,
+    "q1_runtime": 65.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2014,
+    "genre": "Thriller",
+    "n": 1015,
+    "median_runtime": 93.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2014,
+    "genre": "War",
+    "n": 149,
+    "median_runtime": 92.0,
+    "q1_runtime": 79.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2014,
+    "genre": "Western",
+    "n": 33,
+    "median_runtime": 95.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2015,
+    "genre": "Action",
+    "n": 791,
+    "median_runtime": 97.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2015,
+    "genre": "Adventure",
+    "n": 417,
+    "median_runtime": 91.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2015,
+    "genre": "Animation",
+    "n": 327,
+    "median_runtime": 80.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 91.0
+  },
+  {
+    "year": 2015,
+    "genre": "Comedy",
+    "n": 2193,
+    "median_runtime": 92.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2015,
+    "genre": "Crime",
+    "n": 536,
+    "median_runtime": 95.0,
+    "q1_runtime": 87.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2015,
+    "genre": "Documentary",
+    "n": 3698,
+    "median_runtime": 73.0,
+    "q1_runtime": 54.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2015,
+    "genre": "Drama",
+    "n": 3754,
+    "median_runtime": 94.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2015,
+    "genre": "Family",
+    "n": 492,
+    "median_runtime": 89.5,
+    "q1_runtime": 77.75,
+    "q3_runtime": 98.25
+  },
+  {
+    "year": 2015,
+    "genre": "Fantasy",
+    "n": 353,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2015,
+    "genre": "History",
+    "n": 371,
+    "median_runtime": 90.0,
+    "q1_runtime": 69.5,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2015,
+    "genre": "Horror",
+    "n": 1170,
+    "median_runtime": 85.0,
+    "q1_runtime": 74.0,
+    "q3_runtime": 93.75
+  },
+  {
+    "year": 2015,
+    "genre": "Music",
+    "n": 920,
+    "median_runtime": 91.5,
+    "q1_runtime": 68.0,
+    "q3_runtime": 121.25
+  },
+  {
+    "year": 2015,
+    "genre": "Mystery",
+    "n": 391,
+    "median_runtime": 90.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2015,
+    "genre": "Romance",
+    "n": 1170,
+    "median_runtime": 100.0,
+    "q1_runtime": 89.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2015,
+    "genre": "Science Fiction",
+    "n": 396,
+    "median_runtime": 89.0,
+    "q1_runtime": 79.75,
+    "q3_runtime": 100.25
+  },
+  {
+    "year": 2015,
+    "genre": "TV Movie",
+    "n": 448,
+    "median_runtime": 86.0,
+    "q1_runtime": 68.5,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2015,
+    "genre": "Thriller",
+    "n": 1071,
+    "median_runtime": 92.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2015,
+    "genre": "War",
+    "n": 142,
+    "median_runtime": 93.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 109.5
+  },
+  {
+    "year": 2015,
+    "genre": "Western",
+    "n": 30,
+    "median_runtime": 92.5,
+    "q1_runtime": 80.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2016,
+    "genre": "Action",
+    "n": 893,
+    "median_runtime": 99.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 122.0
+  },
+  {
+    "year": 2016,
+    "genre": "Adventure",
+    "n": 434,
+    "median_runtime": 92.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2016,
+    "genre": "Animation",
+    "n": 331,
+    "median_runtime": 78.0,
+    "q1_runtime": 62.5,
+    "q3_runtime": 92.0
+  },
+  {
+    "year": 2016,
+    "genre": "Comedy",
+    "n": 2380,
+    "median_runtime": 92.0,
+    "q1_runtime": 82.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2016,
+    "genre": "Crime",
+    "n": 572,
+    "median_runtime": 93.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 109.0
+  },
+  {
+    "year": 2016,
+    "genre": "Documentary",
+    "n": 3684,
+    "median_runtime": 74.0,
+    "q1_runtime": 55.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2016,
+    "genre": "Drama",
+    "n": 3992,
+    "median_runtime": 95.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2016,
+    "genre": "Family",
+    "n": 507,
+    "median_runtime": 90.0,
+    "q1_runtime": 78.5,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2016,
+    "genre": "Fantasy",
+    "n": 400,
+    "median_runtime": 94.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2016,
+    "genre": "History",
+    "n": 349,
+    "median_runtime": 91.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2016,
+    "genre": "Horror",
+    "n": 1265,
+    "median_runtime": 85.0,
+    "q1_runtime": 71.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2016,
+    "genre": "Music",
+    "n": 811,
+    "median_runtime": 90.0,
+    "q1_runtime": 68.5,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2016,
+    "genre": "Mystery",
+    "n": 451,
+    "median_runtime": 92.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2016,
+    "genre": "Romance",
+    "n": 1307,
+    "median_runtime": 97.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2016,
+    "genre": "Science Fiction",
+    "n": 387,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 101.5
+  },
+  {
+    "year": 2016,
+    "genre": "TV Movie",
+    "n": 472,
+    "median_runtime": 85.0,
+    "q1_runtime": 72.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2016,
+    "genre": "Thriller",
+    "n": 1223,
+    "median_runtime": 92.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2016,
+    "genre": "War",
+    "n": 143,
+    "median_runtime": 94.0,
+    "q1_runtime": 70.0,
+    "q3_runtime": 107.5
+  },
+  {
+    "year": 2016,
+    "genre": "Western",
+    "n": 44,
+    "median_runtime": 92.0,
+    "q1_runtime": 82.75,
+    "q3_runtime": 106.25
+  },
+  {
+    "year": 2017,
+    "genre": "Action",
+    "n": 983,
+    "median_runtime": 100.0,
+    "q1_runtime": 88.0,
+    "q3_runtime": 125.0
+  },
+  {
+    "year": 2017,
+    "genre": "Adventure",
+    "n": 461,
+    "median_runtime": 92.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2017,
+    "genre": "Animation",
+    "n": 390,
+    "median_runtime": 78.5,
+    "q1_runtime": 56.25,
+    "q3_runtime": 91.0
+  },
+  {
+    "year": 2017,
+    "genre": "Comedy",
+    "n": 2450,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.25,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2017,
+    "genre": "Crime",
+    "n": 648,
+    "median_runtime": 95.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 112.25
+  },
+  {
+    "year": 2017,
+    "genre": "Documentary",
+    "n": 4174,
+    "median_runtime": 75.0,
+    "q1_runtime": 55.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2017,
+    "genre": "Drama",
+    "n": 4387,
+    "median_runtime": 95.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2017,
+    "genre": "Family",
+    "n": 538,
+    "median_runtime": 90.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2017,
+    "genre": "Fantasy",
+    "n": 489,
+    "median_runtime": 92.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 114.0
+  },
+  {
+    "year": 2017,
+    "genre": "History",
+    "n": 382,
+    "median_runtime": 94.0,
+    "q1_runtime": 61.0,
+    "q3_runtime": 117.0
+  },
+  {
+    "year": 2017,
+    "genre": "Horror",
+    "n": 1294,
+    "median_runtime": 85.0,
+    "q1_runtime": 73.0,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2017,
+    "genre": "Music",
+    "n": 887,
+    "median_runtime": 91.0,
+    "q1_runtime": 69.0,
+    "q3_runtime": 119.0
+  },
+  {
+    "year": 2017,
+    "genre": "Mystery",
+    "n": 427,
+    "median_runtime": 92.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 106.5
+  },
+  {
+    "year": 2017,
+    "genre": "Romance",
+    "n": 1388,
+    "median_runtime": 99.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2017,
+    "genre": "Science Fiction",
+    "n": 429,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 101.0
+  },
+  {
+    "year": 2017,
+    "genre": "TV Movie",
+    "n": 517,
+    "median_runtime": 85.0,
+    "q1_runtime": 68.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2017,
+    "genre": "Thriller",
+    "n": 1254,
+    "median_runtime": 93.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2017,
+    "genre": "War",
+    "n": 156,
+    "median_runtime": 95.5,
+    "q1_runtime": 80.0,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2017,
+    "genre": "Western",
+    "n": 39,
+    "median_runtime": 90.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 98.5
+  },
+  {
+    "year": 2018,
+    "genre": "Action",
+    "n": 1009,
+    "median_runtime": 100.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 122.0
+  },
+  {
+    "year": 2018,
+    "genre": "Adventure",
+    "n": 448,
+    "median_runtime": 91.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2018,
+    "genre": "Animation",
+    "n": 374,
+    "median_runtime": 80.0,
+    "q1_runtime": 64.0,
+    "q3_runtime": 93.0
+  },
+  {
+    "year": 2018,
+    "genre": "Comedy",
+    "n": 2565,
+    "median_runtime": 92.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2018,
+    "genre": "Crime",
+    "n": 635,
+    "median_runtime": 96.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2018,
+    "genre": "Documentary",
+    "n": 4221,
+    "median_runtime": 74.0,
+    "q1_runtime": 55.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2018,
+    "genre": "Drama",
+    "n": 4614,
+    "median_runtime": 96.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2018,
+    "genre": "Family",
+    "n": 529,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 101.0
+  },
+  {
+    "year": 2018,
+    "genre": "Fantasy",
+    "n": 500,
+    "median_runtime": 94.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2018,
+    "genre": "History",
+    "n": 403,
+    "median_runtime": 92.0,
+    "q1_runtime": 66.0,
+    "q3_runtime": 111.5
+  },
+  {
+    "year": 2018,
+    "genre": "Horror",
+    "n": 1266,
+    "median_runtime": 86.5,
+    "q1_runtime": 75.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2018,
+    "genre": "Music",
+    "n": 883,
+    "median_runtime": 91.0,
+    "q1_runtime": 63.5,
+    "q3_runtime": 122.0
+  },
+  {
+    "year": 2018,
+    "genre": "Mystery",
+    "n": 469,
+    "median_runtime": 93.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2018,
+    "genre": "Romance",
+    "n": 1430,
+    "median_runtime": 97.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 119.0
+  },
+  {
+    "year": 2018,
+    "genre": "Science Fiction",
+    "n": 431,
+    "median_runtime": 90.0,
+    "q1_runtime": 79.0,
+    "q3_runtime": 101.0
+  },
+  {
+    "year": 2018,
+    "genre": "TV Movie",
+    "n": 526,
+    "median_runtime": 86.0,
+    "q1_runtime": 71.25,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2018,
+    "genre": "Thriller",
+    "n": 1246,
+    "median_runtime": 94.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 109.0
+  },
+  {
+    "year": 2018,
+    "genre": "War",
+    "n": 147,
+    "median_runtime": 95.0,
+    "q1_runtime": 75.5,
+    "q3_runtime": 114.5
+  },
+  {
+    "year": 2018,
+    "genre": "Western",
+    "n": 49,
+    "median_runtime": 94.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2019,
+    "genre": "Action",
+    "n": 1036,
+    "median_runtime": 98.5,
+    "q1_runtime": 85.0,
+    "q3_runtime": 126.0
+  },
+  {
+    "year": 2019,
+    "genre": "Adventure",
+    "n": 448,
+    "median_runtime": 91.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2019,
+    "genre": "Animation",
+    "n": 436,
+    "median_runtime": 81.0,
+    "q1_runtime": 61.75,
+    "q3_runtime": 93.0
+  },
+  {
+    "year": 2019,
+    "genre": "Comedy",
+    "n": 2517,
+    "median_runtime": 91.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2019,
+    "genre": "Crime",
+    "n": 712,
+    "median_runtime": 96.0,
+    "q1_runtime": 86.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2019,
+    "genre": "Documentary",
+    "n": 4911,
+    "median_runtime": 74.0,
+    "q1_runtime": 55.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2019,
+    "genre": "Drama",
+    "n": 4854,
+    "median_runtime": 97.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2019,
+    "genre": "Family",
+    "n": 552,
+    "median_runtime": 90.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2019,
+    "genre": "Fantasy",
+    "n": 481,
+    "median_runtime": 90.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2019,
+    "genre": "History",
+    "n": 499,
+    "median_runtime": 91.0,
+    "q1_runtime": 59.0,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2019,
+    "genre": "Horror",
+    "n": 1278,
+    "median_runtime": 86.0,
+    "q1_runtime": 74.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2019,
+    "genre": "Music",
+    "n": 954,
+    "median_runtime": 93.0,
+    "q1_runtime": 63.0,
+    "q3_runtime": 121.0
+  },
+  {
+    "year": 2019,
+    "genre": "Mystery",
+    "n": 460,
+    "median_runtime": 91.5,
+    "q1_runtime": 83.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2019,
+    "genre": "Romance",
+    "n": 1436,
+    "median_runtime": 95.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 118.0
+  },
+  {
+    "year": 2019,
+    "genre": "Science Fiction",
+    "n": 379,
+    "median_runtime": 88.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 101.0
+  },
+  {
+    "year": 2019,
+    "genre": "TV Movie",
+    "n": 631,
+    "median_runtime": 86.0,
+    "q1_runtime": 61.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2019,
+    "genre": "Thriller",
+    "n": 1303,
+    "median_runtime": 94.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2019,
+    "genre": "War",
+    "n": 156,
+    "median_runtime": 97.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2019,
+    "genre": "Western",
+    "n": 49,
+    "median_runtime": 92.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2020,
+    "genre": "Action",
+    "n": 763,
+    "median_runtime": 93.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 114.0
+  },
+  {
+    "year": 2020,
+    "genre": "Adventure",
+    "n": 333,
+    "median_runtime": 90.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2020,
+    "genre": "Animation",
+    "n": 333,
+    "median_runtime": 77.0,
+    "q1_runtime": 61.0,
+    "q3_runtime": 91.0
+  },
+  {
+    "year": 2020,
+    "genre": "Comedy",
+    "n": 2088,
+    "median_runtime": 89.0,
+    "q1_runtime": 71.0,
+    "q3_runtime": 101.0
+  },
+  {
+    "year": 2020,
+    "genre": "Crime",
+    "n": 522,
+    "median_runtime": 90.0,
+    "q1_runtime": 81.25,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2020,
+    "genre": "Documentary",
+    "n": 4737,
+    "median_runtime": 73.0,
+    "q1_runtime": 53.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2020,
+    "genre": "Drama",
+    "n": 3937,
+    "median_runtime": 94.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2020,
+    "genre": "Family",
+    "n": 423,
+    "median_runtime": 89.0,
+    "q1_runtime": 71.0,
+    "q3_runtime": 99.0
+  },
+  {
+    "year": 2020,
+    "genre": "Fantasy",
+    "n": 476,
+    "median_runtime": 90.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2020,
+    "genre": "History",
+    "n": 354,
+    "median_runtime": 89.0,
+    "q1_runtime": 56.0,
+    "q3_runtime": 105.75
+  },
+  {
+    "year": 2020,
+    "genre": "Horror",
+    "n": 1242,
+    "median_runtime": 85.0,
+    "q1_runtime": 71.0,
+    "q3_runtime": 94.0
+  },
+  {
+    "year": 2020,
+    "genre": "Music",
+    "n": 971,
+    "median_runtime": 86.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2020,
+    "genre": "Mystery",
+    "n": 366,
+    "median_runtime": 89.5,
+    "q1_runtime": 80.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2020,
+    "genre": "Romance",
+    "n": 1287,
+    "median_runtime": 90.0,
+    "q1_runtime": 76.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2020,
+    "genre": "Science Fiction",
+    "n": 380,
+    "median_runtime": 90.0,
+    "q1_runtime": 73.0,
+    "q3_runtime": 100.25
+  },
+  {
+    "year": 2020,
+    "genre": "TV Movie",
+    "n": 550,
+    "median_runtime": 84.0,
+    "q1_runtime": 59.0,
+    "q3_runtime": 89.75
+  },
+  {
+    "year": 2020,
+    "genre": "Thriller",
+    "n": 1091,
+    "median_runtime": 90.0,
+    "q1_runtime": 83.0,
+    "q3_runtime": 102.5
+  },
+  {
+    "year": 2020,
+    "genre": "War",
+    "n": 114,
+    "median_runtime": 90.0,
+    "q1_runtime": 72.75,
+    "q3_runtime": 106.75
+  },
+  {
+    "year": 2020,
+    "genre": "Western",
+    "n": 37,
+    "median_runtime": 90.0,
+    "q1_runtime": 76.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2021,
+    "genre": "Action",
+    "n": 919,
+    "median_runtime": 96.0,
+    "q1_runtime": 82.0,
+    "q3_runtime": 122.0
+  },
+  {
+    "year": 2021,
+    "genre": "Adventure",
+    "n": 398,
+    "median_runtime": 90.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2021,
+    "genre": "Animation",
+    "n": 408,
+    "median_runtime": 79.5,
+    "q1_runtime": 57.75,
+    "q3_runtime": 93.0
+  },
+  {
+    "year": 2021,
+    "genre": "Comedy",
+    "n": 2318,
+    "median_runtime": 90.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2021,
+    "genre": "Crime",
+    "n": 716,
+    "median_runtime": 94.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2021,
+    "genre": "Documentary",
+    "n": 5130,
+    "median_runtime": 75.0,
+    "q1_runtime": 53.0,
+    "q3_runtime": 92.0
+  },
+  {
+    "year": 2021,
+    "genre": "Drama",
+    "n": 4658,
+    "median_runtime": 95.0,
+    "q1_runtime": 82.0,
+    "q3_runtime": 116.0
+  },
+  {
+    "year": 2021,
+    "genre": "Family",
+    "n": 481,
+    "median_runtime": 88.0,
+    "q1_runtime": 75.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2021,
+    "genre": "Fantasy",
+    "n": 485,
+    "median_runtime": 89.0,
+    "q1_runtime": 73.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2021,
+    "genre": "History",
+    "n": 414,
+    "median_runtime": 90.0,
+    "q1_runtime": 58.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2021,
+    "genre": "Horror",
+    "n": 1235,
+    "median_runtime": 85.0,
+    "q1_runtime": 69.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2021,
+    "genre": "Music",
+    "n": 1065,
+    "median_runtime": 88.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2021,
+    "genre": "Mystery",
+    "n": 478,
+    "median_runtime": 90.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2021,
+    "genre": "Romance",
+    "n": 1345,
+    "median_runtime": 91.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2021,
+    "genre": "Science Fiction",
+    "n": 470,
+    "median_runtime": 87.0,
+    "q1_runtime": 71.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2021,
+    "genre": "TV Movie",
+    "n": 777,
+    "median_runtime": 85.0,
+    "q1_runtime": 61.0,
+    "q3_runtime": 89.0
+  },
+  {
+    "year": 2021,
+    "genre": "Thriller",
+    "n": 1320,
+    "median_runtime": 91.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2021,
+    "genre": "War",
+    "n": 135,
+    "median_runtime": 93.0,
+    "q1_runtime": 79.5,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2021,
+    "genre": "Western",
+    "n": 59,
+    "median_runtime": 90.0,
+    "q1_runtime": 80.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2022,
+    "genre": "Action",
+    "n": 1068,
+    "median_runtime": 102.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 131.0
+  },
+  {
+    "year": 2022,
+    "genre": "Adventure",
+    "n": 468,
+    "median_runtime": 90.0,
+    "q1_runtime": 76.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2022,
+    "genre": "Animation",
+    "n": 389,
+    "median_runtime": 80.0,
+    "q1_runtime": 58.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2022,
+    "genre": "Comedy",
+    "n": 2932,
+    "median_runtime": 90.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2022,
+    "genre": "Crime",
+    "n": 768,
+    "median_runtime": 97.0,
+    "q1_runtime": 85.75,
+    "q3_runtime": 116.0
+  },
+  {
+    "year": 2022,
+    "genre": "Documentary",
+    "n": 4899,
+    "median_runtime": 76.0,
+    "q1_runtime": 54.0,
+    "q3_runtime": 92.0
+  },
+  {
+    "year": 2022,
+    "genre": "Drama",
+    "n": 5084,
+    "median_runtime": 98.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 118.0
+  },
+  {
+    "year": 2022,
+    "genre": "Family",
+    "n": 540,
+    "median_runtime": 89.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 104.25
+  },
+  {
+    "year": 2022,
+    "genre": "Fantasy",
+    "n": 525,
+    "median_runtime": 90.0,
+    "q1_runtime": 77.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2022,
+    "genre": "History",
+    "n": 417,
+    "median_runtime": 91.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 114.0
+  },
+  {
+    "year": 2022,
+    "genre": "Horror",
+    "n": 1410,
+    "median_runtime": 85.0,
+    "q1_runtime": 70.0,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2022,
+    "genre": "Music",
+    "n": 1081,
+    "median_runtime": 86.0,
+    "q1_runtime": 59.0,
+    "q3_runtime": 109.0
+  },
+  {
+    "year": 2022,
+    "genre": "Mystery",
+    "n": 576,
+    "median_runtime": 92.0,
+    "q1_runtime": 81.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2022,
+    "genre": "Romance",
+    "n": 1420,
+    "median_runtime": 97.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 119.0
+  },
+  {
+    "year": 2022,
+    "genre": "Science Fiction",
+    "n": 470,
+    "median_runtime": 88.0,
+    "q1_runtime": 72.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2022,
+    "genre": "TV Movie",
+    "n": 710,
+    "median_runtime": 85.0,
+    "q1_runtime": 76.25,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2022,
+    "genre": "Thriller",
+    "n": 1575,
+    "median_runtime": 94.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2022,
+    "genre": "War",
+    "n": 145,
+    "median_runtime": 93.0,
+    "q1_runtime": 78.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2022,
+    "genre": "Western",
+    "n": 56,
+    "median_runtime": 90.0,
+    "q1_runtime": 79.5,
+    "q3_runtime": 104.5
+  },
+  {
+    "year": 2023,
+    "genre": "Action",
+    "n": 1078,
+    "median_runtime": 104.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 132.0
+  },
+  {
+    "year": 2023,
+    "genre": "Adventure",
+    "n": 425,
+    "median_runtime": 90.0,
+    "q1_runtime": 73.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2023,
+    "genre": "Animation",
+    "n": 444,
+    "median_runtime": 83.0,
+    "q1_runtime": 61.0,
+    "q3_runtime": 100.25
+  },
+  {
+    "year": 2023,
+    "genre": "Comedy",
+    "n": 2557,
+    "median_runtime": 90.0,
+    "q1_runtime": 73.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2023,
+    "genre": "Crime",
+    "n": 734,
+    "median_runtime": 95.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2023,
+    "genre": "Documentary",
+    "n": 4274,
+    "median_runtime": 73.5,
+    "q1_runtime": 52.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2023,
+    "genre": "Drama",
+    "n": 4426,
+    "median_runtime": 97.5,
+    "q1_runtime": 84.0,
+    "q3_runtime": 115.0
+  },
+  {
+    "year": 2023,
+    "genre": "Family",
+    "n": 474,
+    "median_runtime": 90.0,
+    "q1_runtime": 76.0,
+    "q3_runtime": 109.75
+  },
+  {
+    "year": 2023,
+    "genre": "Fantasy",
+    "n": 433,
+    "median_runtime": 90.0,
+    "q1_runtime": 71.0,
+    "q3_runtime": 105.0
+  },
+  {
+    "year": 2023,
+    "genre": "History",
+    "n": 343,
+    "median_runtime": 100.0,
+    "q1_runtime": 76.5,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2023,
+    "genre": "Horror",
+    "n": 1260,
+    "median_runtime": 87.0,
+    "q1_runtime": 72.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2023,
+    "genre": "Music",
+    "n": 1044,
+    "median_runtime": 90.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2023,
+    "genre": "Mystery",
+    "n": 519,
+    "median_runtime": 93.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2023,
+    "genre": "Romance",
+    "n": 1191,
+    "median_runtime": 95.0,
+    "q1_runtime": 84.0,
+    "q3_runtime": 117.0
+  },
+  {
+    "year": 2023,
+    "genre": "Science Fiction",
+    "n": 436,
+    "median_runtime": 91.0,
+    "q1_runtime": 77.75,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2023,
+    "genre": "TV Movie",
+    "n": 498,
+    "median_runtime": 85.0,
+    "q1_runtime": 78.5,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2023,
+    "genre": "Thriller",
+    "n": 1467,
+    "median_runtime": 94.0,
+    "q1_runtime": 85.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2023,
+    "genre": "War",
+    "n": 127,
+    "median_runtime": 91.0,
+    "q1_runtime": 74.5,
+    "q3_runtime": 117.0
+  },
+  {
+    "year": 2023,
+    "genre": "Western",
+    "n": 50,
+    "median_runtime": 90.0,
+    "q1_runtime": 64.0,
+    "q3_runtime": 99.0
+  },
+  {
+    "year": 2024,
+    "genre": "Action",
+    "n": 399,
+    "median_runtime": 92.0,
+    "q1_runtime": 71.0,
+    "q3_runtime": 120.5
+  },
+  {
+    "year": 2024,
+    "genre": "Adventure",
+    "n": 217,
+    "median_runtime": 87.0,
+    "q1_runtime": 59.0,
+    "q3_runtime": 110.0
+  },
+  {
+    "year": 2024,
+    "genre": "Animation",
+    "n": 171,
+    "median_runtime": 75.0,
+    "q1_runtime": 53.0,
+    "q3_runtime": 100.0
+  },
+  {
+    "year": 2024,
+    "genre": "Comedy",
+    "n": 1098,
+    "median_runtime": 81.0,
+    "q1_runtime": 56.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2024,
+    "genre": "Crime",
+    "n": 288,
+    "median_runtime": 87.0,
+    "q1_runtime": 62.75,
+    "q3_runtime": 102.25
+  },
+  {
+    "year": 2024,
+    "genre": "Documentary",
+    "n": 2479,
+    "median_runtime": 71.0,
+    "q1_runtime": 51.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2024,
+    "genre": "Drama",
+    "n": 1663,
+    "median_runtime": 90.0,
+    "q1_runtime": 67.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2024,
+    "genre": "Family",
+    "n": 176,
+    "median_runtime": 83.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 98.0
+  },
+  {
+    "year": 2024,
+    "genre": "Fantasy",
+    "n": 225,
+    "median_runtime": 85.0,
+    "q1_runtime": 53.0,
+    "q3_runtime": 112.0
+  },
+  {
+    "year": 2024,
+    "genre": "History",
+    "n": 129,
+    "median_runtime": 82.0,
+    "q1_runtime": 56.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2024,
+    "genre": "Horror",
+    "n": 606,
+    "median_runtime": 76.5,
+    "q1_runtime": 57.25,
+    "q3_runtime": 94.0
+  },
+  {
+    "year": 2024,
+    "genre": "Music",
+    "n": 713,
+    "median_runtime": 78.0,
+    "q1_runtime": 56.0,
+    "q3_runtime": 113.0
+  },
+  {
+    "year": 2024,
+    "genre": "Mystery",
+    "n": 201,
+    "median_runtime": 80.0,
+    "q1_runtime": 45.0,
+    "q3_runtime": 97.0
+  },
+  {
+    "year": 2024,
+    "genre": "Romance",
+    "n": 445,
+    "median_runtime": 90.0,
+    "q1_runtime": 70.0,
+    "q3_runtime": 118.0
+  },
+  {
+    "year": 2024,
+    "genre": "Science Fiction",
+    "n": 205,
+    "median_runtime": 77.0,
+    "q1_runtime": 54.0,
+    "q3_runtime": 97.0
+  },
+  {
+    "year": 2024,
+    "genre": "TV Movie",
+    "n": 122,
+    "median_runtime": 84.0,
+    "q1_runtime": 59.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2024,
+    "genre": "Thriller",
+    "n": 502,
+    "median_runtime": 87.0,
+    "q1_runtime": 67.25,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2024,
+    "genre": "War",
+    "n": 47,
+    "median_runtime": 80.0,
+    "q1_runtime": 50.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2024,
+    "genre": "Western",
+    "n": 26,
+    "median_runtime": 90.0,
+    "q1_runtime": 70.25,
+    "q3_runtime": 106.5
+  },
+  {
+    "year": 2025,
+    "genre": "Action",
+    "n": 405,
+    "median_runtime": 100.0,
+    "q1_runtime": 70.0,
+    "q3_runtime": 128.0
+  },
+  {
+    "year": 2025,
+    "genre": "Adventure",
+    "n": 243,
+    "median_runtime": 87.0,
+    "q1_runtime": 51.0,
+    "q3_runtime": 119.0
+  },
+  {
+    "year": 2025,
+    "genre": "Animation",
+    "n": 158,
+    "median_runtime": 70.0,
+    "q1_runtime": 48.0,
+    "q3_runtime": 94.5
+  },
+  {
+    "year": 2025,
+    "genre": "Comedy",
+    "n": 1151,
+    "median_runtime": 83.0,
+    "q1_runtime": 57.0,
+    "q3_runtime": 103.0
+  },
+  {
+    "year": 2025,
+    "genre": "Crime",
+    "n": 253,
+    "median_runtime": 89.0,
+    "q1_runtime": 63.0,
+    "q3_runtime": 106.0
+  },
+  {
+    "year": 2025,
+    "genre": "Documentary",
+    "n": 2578,
+    "median_runtime": 73.0,
+    "q1_runtime": 52.0,
+    "q3_runtime": 91.0
+  },
+  {
+    "year": 2025,
+    "genre": "Drama",
+    "n": 1577,
+    "median_runtime": 90.0,
+    "q1_runtime": 64.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2025,
+    "genre": "Family",
+    "n": 162,
+    "median_runtime": 83.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 99.0
+  },
+  {
+    "year": 2025,
+    "genre": "Fantasy",
+    "n": 207,
+    "median_runtime": 80.0,
+    "q1_runtime": 44.0,
+    "q3_runtime": 111.0
+  },
+  {
+    "year": 2025,
+    "genre": "History",
+    "n": 133,
+    "median_runtime": 86.0,
+    "q1_runtime": 59.0,
+    "q3_runtime": 107.0
+  },
+  {
+    "year": 2025,
+    "genre": "Horror",
+    "n": 500,
+    "median_runtime": 81.0,
+    "q1_runtime": 55.75,
+    "q3_runtime": 96.0
+  },
+  {
+    "year": 2025,
+    "genre": "Music",
+    "n": 862,
+    "median_runtime": 80.0,
+    "q1_runtime": 55.0,
+    "q3_runtime": 108.0
+  },
+  {
+    "year": 2025,
+    "genre": "Mystery",
+    "n": 188,
+    "median_runtime": 83.5,
+    "q1_runtime": 50.0,
+    "q3_runtime": 104.0
+  },
+  {
+    "year": 2025,
+    "genre": "Romance",
+    "n": 498,
+    "median_runtime": 90.0,
+    "q1_runtime": 60.0,
+    "q3_runtime": 120.0
+  },
+  {
+    "year": 2025,
+    "genre": "Science Fiction",
+    "n": 163,
+    "median_runtime": 80.0,
+    "q1_runtime": 45.5,
+    "q3_runtime": 95.0
+  },
+  {
+    "year": 2025,
+    "genre": "TV Movie",
+    "n": 96,
+    "median_runtime": 67.5,
+    "q1_runtime": 51.0,
+    "q3_runtime": 90.0
+  },
+  {
+    "year": 2025,
+    "genre": "Thriller",
+    "n": 507,
+    "median_runtime": 88.0,
+    "q1_runtime": 69.0,
+    "q3_runtime": 102.0
+  },
+  {
+    "year": 2025,
+    "genre": "War",
+    "n": 75,
+    "median_runtime": 88.0,
+    "q1_runtime": 55.5,
+    "q3_runtime": 108.5
+  },
+  {
+    "year": 2025,
+    "genre": "Western",
+    "n": 15,
+    "median_runtime": 87.0,
+    "q1_runtime": 44.5,
+    "q3_runtime": 127.0
+  }
+]

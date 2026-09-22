@@ -1,0 +1,8 @@
+{
+  "total_rows": 1496374,
+  "analysis_start_year": 2000,
+  "analysis_end_year": 2025,
+  "runtime_min": 30,
+  "runtime_max": 300,
+  "source_filename": "TMDB_movie_dataset_v11.csv"
+}
