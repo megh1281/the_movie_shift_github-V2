@@ -1,0 +1,6 @@
+{
+  "name": "The Movie Shift",
+  "description": "How genres, screens and audiences changed — an interactive data story about cinema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

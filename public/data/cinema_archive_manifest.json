@@ -1,0 +1,1733 @@
+[
+  {
+    "id": 98,
+    "title": "Gladiator",
+    "year": 2000,
+    "release_date": "2000-05-04",
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "runtime": 155,
+    "popularity": 53.59,
+    "revenue": 465361176,
+    "budget": 103000000,
+    "vote_average": 8.2,
+    "vote_count": 16962,
+    "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "backdrop_path": "/3ZVEtQxVPpEp5LNpAULDcxadTU3.jpg"
+  },
+  {
+    "id": 843,
+    "title": "In the Mood for Love",
+    "year": 2000,
+    "release_date": "2000-09-29",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 99,
+    "popularity": 28.1,
+    "revenue": 14204632,
+    "budget": 150000,
+    "vote_average": 8.1,
+    "vote_count": 2334,
+    "poster_path": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+    "backdrop_path": "/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg"
+  },
+  {
+    "id": 77,
+    "title": "Memento",
+    "year": 2000,
+    "release_date": "2000-10-11",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 113,
+    "popularity": 31.8,
+    "revenue": 39723096,
+    "budget": 9000000,
+    "vote_average": 8.2,
+    "vote_count": 13723,
+    "poster_path": "/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg",
+    "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg"
+  },
+  {
+    "id": 1018,
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "release_date": "2001-06-06",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": 147,
+    "popularity": 29.86,
+    "revenue": 20271129,
+    "budget": 15000000,
+    "vote_average": 7.8,
+    "vote_count": 5664,
+    "poster_path": "/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg",
+    "backdrop_path": "/y1giivdsGLyo1LCvlsL6mLKyTZ7.jpg"
+  },
+  {
+    "id": 129,
+    "title": "Spirited Away",
+    "year": 2001,
+    "release_date": "2001-07-20",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "runtime": 125,
+    "popularity": 68.02,
+    "revenue": 274925095,
+    "budget": 19000000,
+    "vote_average": 8.5,
+    "vote_count": 14913,
+    "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "backdrop_path": "/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg"
+  },
+  {
+    "id": 120,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "release_date": "2001-12-18",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "runtime": 179,
+    "popularity": 87.04,
+    "revenue": 871368364,
+    "budget": 93000000,
+    "vote_average": 8.4,
+    "vote_count": 23323,
+    "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg"
+  },
+  {
+    "id": 598,
+    "title": "City of God",
+    "year": 2002,
+    "release_date": "2002-08-30",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "runtime": 130,
+    "popularity": 29.57,
+    "revenue": 30641770,
+    "budget": 3300000,
+    "vote_average": 8.4,
+    "vote_count": 6708,
+    "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+    "backdrop_path": "/5p3aTxtUtZHCHwYsuycutmxIhND.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Finding Nemo",
+    "year": 2003,
+    "release_date": "2003-05-30",
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "runtime": 100,
+    "popularity": 55.46,
+    "revenue": 940335536,
+    "budget": 94000000,
+    "vote_average": 7.8,
+    "vote_count": 18061,
+    "poster_path": "/ggQ6o8X5984OCh3kZi2UIJQJY5y.jpg",
+    "backdrop_path": "/h3uqFk7sZRJvLZDdLiFB9qwbL07.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "release_date": "2003-10-10",
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "runtime": 111,
+    "popularity": 36.31,
+    "revenue": 180906076,
+    "budget": 30000000,
+    "vote_average": 8.0,
+    "vote_count": 16188,
+    "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+    "backdrop_path": "/k9Ps0EsrTnqbQ4oTTWx628BQ2TW.jpg"
+  },
+  {
+    "id": 153,
+    "title": "Lost in Translation",
+    "year": 2003,
+    "release_date": "2003-09-18",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 102,
+    "popularity": 27.06,
+    "revenue": 119723856,
+    "budget": 4000000,
+    "vote_average": 7.4,
+    "vote_count": 6734,
+    "poster_path": "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg",
+    "backdrop_path": "/45He7gApNQyDbqCDjxew9BnHzjf.jpg"
+  },
+  {
+    "id": 604,
+    "title": "The Matrix Reloaded",
+    "year": 2003,
+    "release_date": "2003-05-15",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "runtime": 138,
+    "popularity": 44.6,
+    "revenue": 738599701,
+    "budget": 150000000,
+    "vote_average": 7.0,
+    "vote_count": 10128,
+    "poster_path": "/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg",
+    "backdrop_path": "/pxK1iK6anS6erGg4QePmMKbB1E7.jpg"
+  },
+  {
+    "id": 80,
+    "title": "Before Sunset",
+    "year": 2004,
+    "release_date": "2004-06-16",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 80,
+    "popularity": 19.82,
+    "revenue": 15992615,
+    "budget": 2700000,
+    "vote_average": 7.8,
+    "vote_count": 3074,
+    "poster_path": "/gycdE1ARByGQcK4fYR2mgpU6OO.jpg",
+    "backdrop_path": "/zwgDZw9dyrgkYz2RCOb2HvUDlt2.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "release_date": "2004-03-19",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 108,
+    "popularity": 54.12,
+    "revenue": 72258126,
+    "budget": 20000000,
+    "vote_average": 8.1,
+    "vote_count": 13709,
+    "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+    "backdrop_path": "/jz9Kep0xWjiA6QDHSsd43ASxNfj.jpg"
+  },
+  {
+    "id": 747,
+    "title": "Shaun of the Dead",
+    "year": 2004,
+    "release_date": "2004-04-09",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "runtime": 99,
+    "popularity": 46.21,
+    "revenue": 30097092,
+    "budget": 6100000,
+    "vote_average": 7.5,
+    "vote_count": 7760,
+    "poster_path": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+    "backdrop_path": "/ysUbm8qcKLaUiMf0H82mE5ujvVQ.jpg"
+  },
+  {
+    "id": 9806,
+    "title": "The Incredibles",
+    "year": 2004,
+    "release_date": "2004-10-27",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "runtime": 115,
+    "popularity": 62.61,
+    "revenue": 631442092,
+    "budget": 92000000,
+    "vote_average": 7.7,
+    "vote_count": 16584,
+    "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+    "backdrop_path": "/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg"
+  },
+  {
+    "id": 272,
+    "title": "Batman Begins",
+    "year": 2005,
+    "release_date": "2005-06-10",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 140,
+    "popularity": 66.29,
+    "revenue": 374218673,
+    "budget": 150000000,
+    "vote_average": 7.7,
+    "vote_count": 19561,
+    "poster_path": "/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+    "backdrop_path": "/lh5lbisD4oDbEKgUxoRaZU8HVrk.jpg"
+  },
+  {
+    "id": 142,
+    "title": "Brokeback Mountain",
+    "year": 2005,
+    "release_date": "2005-09-10",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 134,
+    "popularity": 31.52,
+    "revenue": 178043761,
+    "budget": 14000000,
+    "vote_average": 7.8,
+    "vote_count": 6426,
+    "poster_path": "/fsbzfe9eLOEl5rJX04nPEr1eoAi.jpg",
+    "backdrop_path": "/3KyAxlakmcyHWqlcxgIxMQnSilk.jpg"
+  },
+  {
+    "id": 4348,
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "release_date": "2005-09-16",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 127,
+    "popularity": 49.41,
+    "revenue": 121616555,
+    "budget": 28000000,
+    "vote_average": 8.1,
+    "vote_count": 7394,
+    "poster_path": "/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+    "backdrop_path": "/pgEWI7yGYF0mM5Uf1YxSOHsBkJR.jpg"
+  },
+  {
+    "id": 9693,
+    "title": "Children of Men",
+    "year": 2006,
+    "release_date": "2006-09-22",
+    "genres": [
+      "Drama",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "runtime": 109,
+    "popularity": 28.41,
+    "revenue": 70595464,
+    "budget": 76000000,
+    "vote_average": 7.6,
+    "vote_count": 6495,
+    "poster_path": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+    "backdrop_path": "/7cW7zHpDdl9fgaRXI5qAglV247P.jpg"
+  },
+  {
+    "id": 1417,
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "release_date": "2006-10-10",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "War"
+    ],
+    "runtime": 118,
+    "popularity": 35.67,
+    "revenue": 83258226,
+    "budget": 19000000,
+    "vote_average": 7.8,
+    "vote_count": 9839,
+    "poster_path": "/2VVhikIxoztAXEDQZLOdtBsu6vf.jpg",
+    "backdrop_path": "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg"
+  },
+  {
+    "id": 1422,
+    "title": "The Departed",
+    "year": 2006,
+    "release_date": "2006-10-04",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "runtime": 151,
+    "popularity": 42.5,
+    "revenue": 291465000,
+    "budget": 90000000,
+    "vote_average": 8.2,
+    "vote_count": 13792,
+    "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+    "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg"
+  },
+  {
+    "id": 6977,
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "release_date": "2007-06-13",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 122,
+    "popularity": 33.12,
+    "revenue": 171627166,
+    "budget": 25000000,
+    "vote_average": 7.9,
+    "vote_count": 10964,
+    "poster_path": "/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg",
+    "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg"
+  },
+  {
+    "id": 8363,
+    "title": "Superbad",
+    "year": 2007,
+    "release_date": "2007-03-20",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime": 113,
+    "popularity": 51.55,
+    "revenue": 170812526,
+    "budget": 20000000,
+    "vote_average": 7.2,
+    "vote_count": 6620,
+    "poster_path": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+    "backdrop_path": "/giYuvpmpZbwkT3NtX4WdNYqGhxw.jpg"
+  },
+  {
+    "id": 7345,
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "release_date": "2007-12-26",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 158,
+    "popularity": 28.91,
+    "revenue": 77208711,
+    "budget": 25000000,
+    "vote_average": 8.1,
+    "vote_count": 5985,
+    "poster_path": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+    "backdrop_path": "/8LRcCJjbQI552BMCuGgYqph8USS.jpg"
+  },
+  {
+    "id": 1726,
+    "title": "Iron Man",
+    "year": 2008,
+    "release_date": "2008-04-30",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "runtime": 126,
+    "popularity": 72.9,
+    "revenue": 585174222,
+    "budget": 140000000,
+    "vote_average": 7.6,
+    "vote_count": 24874,
+    "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg"
+  },
+  {
+    "id": 12405,
+    "title": "Slumdog Millionaire",
+    "year": 2008,
+    "release_date": "2008-11-12",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 120,
+    "popularity": 22.97,
+    "revenue": 378410542,
+    "budget": 15000000,
+    "vote_average": 7.7,
+    "vote_count": 9916,
+    "poster_path": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+    "backdrop_path": "/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg"
+  },
+  {
+    "id": 155,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "release_date": "2008-07-16",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "runtime": 152,
+    "popularity": 130.64,
+    "revenue": 1004558444,
+    "budget": 185000000,
+    "vote_average": 8.5,
+    "vote_count": 30619,
+    "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop_path": "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg"
+  },
+  {
+    "id": 10681,
+    "title": "WALL\u00b7E",
+    "year": 2008,
+    "release_date": "2008-06-22",
+    "genres": [
+      "Animation",
+      "Family",
+      "Science Fiction"
+    ],
+    "runtime": 98,
+    "popularity": 58.52,
+    "revenue": 521311860,
+    "budget": 180000000,
+    "vote_average": 8.1,
+    "vote_count": 17446,
+    "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "backdrop_path": "/fK5ssgvtI43z19FoWigdlqgpLRE.jpg"
+  },
+  {
+    "id": 19995,
+    "title": "Avatar",
+    "year": 2009,
+    "release_date": "2009-12-15",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "runtime": 162,
+    "popularity": 79.93,
+    "revenue": 2923706026,
+    "budget": 237000000,
+    "vote_average": 7.6,
+    "vote_count": 29815,
+    "poster_path": "/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg"
+  },
+  {
+    "id": 16869,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "release_date": "2009-08-19",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "runtime": 153,
+    "popularity": 59.16,
+    "revenue": 321457747,
+    "budget": 70000000,
+    "vote_average": 8.2,
+    "vote_count": 20746,
+    "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+    "backdrop_path": "/8pEnePgGyfUqj8Qa6d91OZQ6Aih.jpg"
+  },
+  {
+    "id": 14160,
+    "title": "Up",
+    "year": 2009,
+    "release_date": "2009-05-28",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "runtime": 96,
+    "popularity": 90.97,
+    "revenue": 735099082,
+    "budget": 175000000,
+    "vote_average": 7.9,
+    "vote_count": 18857,
+    "poster_path": "/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg",
+    "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg"
+  },
+  {
+    "id": 44214,
+    "title": "Black Swan",
+    "year": 2010,
+    "release_date": "2010-12-03",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Horror"
+    ],
+    "runtime": 108,
+    "popularity": 34.93,
+    "revenue": 329398046,
+    "budget": 13000000,
+    "vote_average": 7.7,
+    "vote_count": 13567,
+    "poster_path": "/rH19vkjAzCZ0HIUvrgB3rowm68h.jpg",
+    "backdrop_path": "/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg"
+  },
+  {
+    "id": 27205,
+    "title": "Inception",
+    "year": 2010,
+    "release_date": "2010-07-15",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "runtime": 148,
+    "popularity": 83.95,
+    "revenue": 825532764,
+    "budget": 160000000,
+    "vote_average": 8.4,
+    "vote_count": 34495,
+    "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg"
+  },
+  {
+    "id": 37799,
+    "title": "The Social Network",
+    "year": 2010,
+    "release_date": "2010-10-01",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 121,
+    "popularity": 36.1,
+    "revenue": 224920315,
+    "budget": 40000000,
+    "vote_average": 7.4,
+    "vote_count": 11190,
+    "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+    "backdrop_path": "/2BNKxbq4muNcwTjSDNCYnvr1dM8.jpg"
+  },
+  {
+    "id": 64690,
+    "title": "Drive",
+    "year": 2011,
+    "release_date": "2011-09-15",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "runtime": 100,
+    "popularity": 38.24,
+    "revenue": 78054825,
+    "budget": 15000000,
+    "vote_average": 7.6,
+    "vote_count": 11718,
+    "poster_path": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+    "backdrop_path": "/uslmOwQpdRRUwr6AmBP6JdzeHjS.jpg"
+  },
+  {
+    "id": 74643,
+    "title": "The Artist",
+    "year": 2011,
+    "release_date": "2011-10-12",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "runtime": 100,
+    "popularity": 17.85,
+    "revenue": 133432856,
+    "budget": 15000000,
+    "vote_average": 7.5,
+    "vote_count": 3030,
+    "poster_path": "/z68py0ZqPgeacGPG54AGVRbNBS7.jpg",
+    "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg"
+  },
+  {
+    "id": 68718,
+    "title": "Django Unchained",
+    "year": 2012,
+    "release_date": "2012-12-25",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "runtime": 165,
+    "popularity": 54.22,
+    "revenue": 425368238,
+    "budget": 100000000,
+    "vote_average": 8.2,
+    "vote_count": 24672,
+    "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "backdrop_path": "/5Lbm0gpFDRAPIV1Cth6ln9iL1ou.jpg"
+  },
+  {
+    "id": 24428,
+    "title": "The Avengers",
+    "year": 2012,
+    "release_date": "2012-04-25",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": 143,
+    "popularity": 98.08,
+    "revenue": 1518815515,
+    "budget": 220000000,
+    "vote_average": 7.7,
+    "vote_count": 29166,
+    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg"
+  },
+  {
+    "id": 68722,
+    "title": "The Master",
+    "year": 2012,
+    "release_date": "2012-09-07",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 137,
+    "popularity": 19.33,
+    "revenue": 28258060,
+    "budget": 32000000,
+    "vote_average": 7.2,
+    "vote_count": 2719,
+    "poster_path": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+    "backdrop_path": "/s4EIxjPG3BEmo6TWkCXkJQZM4zY.jpg"
+  },
+  {
+    "id": 49047,
+    "title": "Gravity",
+    "year": 2013,
+    "release_date": "2013-10-03",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "runtime": 91,
+    "popularity": 31.02,
+    "revenue": 723192705,
+    "budget": 105000000,
+    "vote_average": 7.2,
+    "vote_count": 14463,
+    "poster_path": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+    "backdrop_path": "/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg"
+  },
+  {
+    "id": 152601,
+    "title": "Her",
+    "year": 2013,
+    "release_date": "2013-12-18",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "runtime": 126,
+    "popularity": 37.61,
+    "revenue": 47351251,
+    "budget": 23000000,
+    "vote_average": 7.9,
+    "vote_count": 13407,
+    "poster_path": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+    "backdrop_path": "/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg"
+  },
+  {
+    "id": 106646,
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "release_date": "2013-12-25",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "runtime": 180,
+    "popularity": 97.44,
+    "revenue": 392000000,
+    "budget": 100000000,
+    "vote_average": 8.0,
+    "vote_count": 22222,
+    "poster_path": "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+    "backdrop_path": "/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg"
+  },
+  {
+    "id": 157336,
+    "title": "Interstellar",
+    "year": 2014,
+    "release_date": "2014-11-05",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "runtime": 169,
+    "popularity": 140.24,
+    "revenue": 701729206,
+    "budget": 165000000,
+    "vote_average": 8.4,
+    "vote_count": 32571,
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/pbrkL804c8yAv3zBZR4QPEafpAR.jpg"
+  },
+  {
+    "id": 120467,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "release_date": "2014-02-26",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": 100,
+    "popularity": 33.97,
+    "revenue": 174600318,
+    "budget": 30000000,
+    "vote_average": 8.0,
+    "vote_count": 13787,
+    "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg"
+  },
+  {
+    "id": 244786,
+    "title": "Whiplash",
+    "year": 2014,
+    "release_date": "2014-10-10",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "runtime": 107,
+    "popularity": 54.49,
+    "revenue": 13092000,
+    "budget": 3300000,
+    "vote_average": 8.4,
+    "vote_count": 13891,
+    "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "backdrop_path": "/vNXGrknx4GjWLgmuNTftWZluIUl.jpg"
+  },
+  {
+    "id": 435092,
+    "title": "Birdman",
+    "year": 2015,
+    "release_date": "2015-07-01",
+    "genres": [
+      "Documentary"
+    ],
+    "runtime": 13,
+    "popularity": 1.32,
+    "revenue": null,
+    "budget": null,
+    "vote_average": 3.6,
+    "vote_count": 5,
+    "poster_path": "/9n0u3Ee7OUjgeyF5kIwahxkf4xm.jpg",
+    "backdrop_path": "/xVIHZXRFnImt0z88PWsUNH9EPq7.jpg"
+  },
+  {
+    "id": 264660,
+    "title": "Ex Machina",
+    "year": 2015,
+    "release_date": "2015-01-21",
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ],
+    "runtime": 108,
+    "popularity": 26.77,
+    "revenue": 36869414,
+    "budget": 15000000,
+    "vote_average": 7.6,
+    "vote_count": 12362,
+    "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+    "backdrop_path": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg"
+  },
+  {
+    "id": 150540,
+    "title": "Inside Out",
+    "year": 2015,
+    "release_date": "2015-06-09",
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Drama",
+      "Comedy"
+    ],
+    "runtime": 95,
+    "popularity": 107.29,
+    "revenue": 857611174,
+    "budget": 175000000,
+    "vote_average": 7.9,
+    "vote_count": 19463,
+    "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+    "backdrop_path": "/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg"
+  },
+  {
+    "id": 76341,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "release_date": "2015-05-13",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "runtime": 121,
+    "popularity": 78.32,
+    "revenue": 378858340,
+    "budget": 150000000,
+    "vote_average": 7.6,
+    "vote_count": 20911,
+    "poster_path": "/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+    "backdrop_path": "/8yACFuo4OaIiKr9hHFlmPcGalKx.jpg"
+  },
+  {
+    "id": 273481,
+    "title": "Sicario",
+    "year": 2015,
+    "release_date": "2015-09-17",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "runtime": 122,
+    "popularity": 43.82,
+    "revenue": 84872444,
+    "budget": 30000000,
+    "vote_average": 7.4,
+    "vote_count": 7836,
+    "poster_path": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+    "backdrop_path": "/4NdAMnBwSAaSsUjoXkcU5aW28RF.jpg"
+  },
+  {
+    "id": 314365,
+    "title": "Spotlight",
+    "year": 2015,
+    "release_date": "2015-11-06",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "runtime": 129,
+    "popularity": 20.16,
+    "revenue": 98690254,
+    "budget": 20000000,
+    "vote_average": 7.8,
+    "vote_count": 7765,
+    "poster_path": "/gWkgMnIsd8Od7iyhEEKL5G4Qq6J.jpg",
+    "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg"
+  },
+  {
+    "id": 281957,
+    "title": "The Revenant",
+    "year": 2015,
+    "release_date": "2015-12-25",
+    "genres": [
+      "Western",
+      "Drama",
+      "Adventure"
+    ],
+    "runtime": 157,
+    "popularity": 36.75,
+    "revenue": 532950503,
+    "budget": 135000000,
+    "vote_average": 7.5,
+    "vote_count": 17114,
+    "poster_path": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+    "backdrop_path": "/3uM41OT0RfBkE6Gb6U89LEskJBr.jpg"
+  },
+  {
+    "id": 329865,
+    "title": "Arrival",
+    "year": 2016,
+    "release_date": "2016-11-10",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "runtime": 116,
+    "popularity": 47.98,
+    "revenue": 203388186,
+    "budget": 47000000,
+    "vote_average": 7.6,
+    "vote_count": 16564,
+    "poster_path": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+    "backdrop_path": "/5B14ls1dftgOyTSRdzV9EPCa5pR.jpg"
+  },
+  {
+    "id": 313369,
+    "title": "La La Land",
+    "year": 2016,
+    "release_date": "2016-11-29",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Music"
+    ],
+    "runtime": 129,
+    "popularity": 32.01,
+    "revenue": 447407695,
+    "budget": 30000000,
+    "vote_average": 7.9,
+    "vote_count": 15625,
+    "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "backdrop_path": "/qJeU7KM4nT2C1WpOrwPcSDGFUWE.jpg"
+  },
+  {
+    "id": 376867,
+    "title": "Moonlight",
+    "year": 2016,
+    "release_date": "2016-10-21",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 111,
+    "popularity": 16.75,
+    "revenue": 65046687,
+    "budget": 4000000,
+    "vote_average": 7.4,
+    "vote_count": 6641,
+    "poster_path": "/4911T5FbJ9eD2Faz5Z8cT3SUhU3.jpg",
+    "backdrop_path": "/A9KPbYTQvWsp51Lgz85ukVkFrKf.jpg"
+  },
+  {
+    "id": 335984,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "release_date": "2017-10-04",
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "runtime": 164,
+    "popularity": 70.54,
+    "revenue": 259239658,
+    "budget": 150000000,
+    "vote_average": 7.5,
+    "vote_count": 12331,
+    "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "backdrop_path": "/uKbX1ha7KWyTecvpPpRCB3iFfj3.jpg"
+  },
+  {
+    "id": 374720,
+    "title": "Dunkirk",
+    "year": 2017,
+    "release_date": "2017-07-19",
+    "genres": [
+      "War",
+      "Action",
+      "Drama"
+    ],
+    "runtime": 107,
+    "popularity": 34.53,
+    "revenue": 527000000,
+    "budget": 150000000,
+    "vote_average": 7.5,
+    "vote_count": 15464,
+    "poster_path": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+    "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg"
+  },
+  {
+    "id": 419430,
+    "title": "Get Out",
+    "year": 2017,
+    "release_date": "2017-02-24",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "runtime": 104,
+    "popularity": 36.44,
+    "revenue": 255407969,
+    "budget": 4500000,
+    "vote_average": 7.6,
+    "vote_count": 16081,
+    "poster_path": "/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
+    "backdrop_path": "/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg"
+  },
+  {
+    "id": 391713,
+    "title": "Lady Bird",
+    "year": 2017,
+    "release_date": "2017-09-01",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "runtime": 94,
+    "popularity": 25.85,
+    "revenue": 78966486,
+    "budget": 10000000,
+    "vote_average": 7.3,
+    "vote_count": 7861,
+    "poster_path": "/iySFtKLrWvVzXzlFj7x1zalxi5G.jpg",
+    "backdrop_path": "/pcWxKfFNCznTKYy0E8M9nG1cwL4.jpg"
+  },
+  {
+    "id": 284054,
+    "title": "Black Panther",
+    "year": 2018,
+    "release_date": "2018-02-13",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "runtime": 135,
+    "popularity": 43.66,
+    "revenue": 1349926083,
+    "budget": 200000000,
+    "vote_average": 7.4,
+    "vote_count": 21053,
+    "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg"
+  },
+  {
+    "id": 493922,
+    "title": "Hereditary",
+    "year": 2018,
+    "release_date": "2018-06-07",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 128,
+    "popularity": 38.53,
+    "revenue": 82530552,
+    "budget": 10000000,
+    "vote_average": 7.3,
+    "vote_count": 6880,
+    "poster_path": "/p9fmuz2Oj3HtEJEqbIwkFGUhVXD.jpg",
+    "backdrop_path": "/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg"
+  },
+  {
+    "id": 426426,
+    "title": "Roma",
+    "year": 2018,
+    "release_date": "2018-08-25",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 135,
+    "popularity": 10.59,
+    "revenue": 1140769,
+    "budget": 15000000,
+    "vote_average": 7.7,
+    "vote_count": 3697,
+    "poster_path": "/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+    "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg"
+  },
+  {
+    "id": 324857,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "release_date": "2018-12-06",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Science Fiction"
+    ],
+    "runtime": 117,
+    "popularity": 80.67,
+    "revenue": 375464627,
+    "budget": 90000000,
+    "vote_average": 8.4,
+    "vote_count": 14024,
+    "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg"
+  },
+  {
+    "id": 530915,
+    "title": "1917",
+    "year": 2019,
+    "release_date": "2019-12-25",
+    "genres": [
+      "War",
+      "History",
+      "Thriller"
+    ],
+    "runtime": 119,
+    "popularity": 44.36,
+    "revenue": 394638258,
+    "budget": 100000000,
+    "vote_average": 8.0,
+    "vote_count": 11395,
+    "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "backdrop_path": "/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg"
+  },
+  {
+    "id": 299534,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "release_date": "2019-04-24",
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ],
+    "runtime": 181,
+    "popularity": 91.76,
+    "revenue": 2800000000,
+    "budget": 356000000,
+    "vote_average": 8.3,
+    "vote_count": 23857,
+    "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg"
+  },
+  {
+    "id": 475557,
+    "title": "Joker",
+    "year": 2019,
+    "release_date": "2019-10-01",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "runtime": 122,
+    "popularity": 54.52,
+    "revenue": 1074458282,
+    "budget": 55000000,
+    "vote_average": 8.2,
+    "vote_count": 23425,
+    "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "backdrop_path": "/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg"
+  },
+  {
+    "id": 546554,
+    "title": "Knives Out",
+    "year": 2019,
+    "release_date": "2019-11-27",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "runtime": 131,
+    "popularity": 39.06,
+    "revenue": 312897920,
+    "budget": 40000000,
+    "vote_average": 7.8,
+    "vote_count": 11156,
+    "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg"
+  },
+  {
+    "id": 492188,
+    "title": "Marriage Story",
+    "year": 2019,
+    "release_date": "2019-09-28",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 137,
+    "popularity": 16.59,
+    "revenue": 2300000,
+    "budget": 18000000,
+    "vote_average": 7.8,
+    "vote_count": 6478,
+    "poster_path": "/91osxUqsq1JC0zJzB1CpAavlWu7.jpg",
+    "backdrop_path": "/4PCO7tewIGnE6ySjVf2DbJ3pjqq.jpg"
+  },
+  {
+    "id": 530385,
+    "title": "Midsommar",
+    "year": 2019,
+    "release_date": "2019-07-03",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": 147,
+    "popularity": 32.58,
+    "revenue": 47969371,
+    "budget": 9000000,
+    "vote_average": 7.2,
+    "vote_count": 6185,
+    "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+    "backdrop_path": "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg"
+  },
+  {
+    "id": 496243,
+    "title": "Parasite",
+    "year": 2019,
+    "release_date": "2019-05-30",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "runtime": 133,
+    "popularity": 64.63,
+    "revenue": 257591776,
+    "budget": 11363000,
+    "vote_average": 8.5,
+    "vote_count": 16430,
+    "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg"
+  },
+  {
+    "id": 531428,
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "release_date": "2019-06-17",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 120,
+    "popularity": 22.18,
+    "revenue": 9923127,
+    "budget": 5740000,
+    "vote_average": 8.2,
+    "vote_count": 2187,
+    "poster_path": "/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+    "backdrop_path": "/foFq1RZWQIgFuCQ0nyYccywjFyX.jpg"
+  },
+  {
+    "id": 398978,
+    "title": "The Irishman",
+    "year": 2019,
+    "release_date": "2019-11-01",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "runtime": 209,
+    "popularity": 23.09,
+    "revenue": 968853,
+    "budget": 159000000,
+    "vote_average": 7.6,
+    "vote_count": 6203,
+    "poster_path": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+    "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg"
+  },
+  {
+    "id": 473033,
+    "title": "Uncut Gems",
+    "year": 2019,
+    "release_date": "2019-08-30",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "runtime": 136,
+    "popularity": 22.21,
+    "revenue": 50020902,
+    "budget": 19000000,
+    "vote_average": 7.1,
+    "vote_count": 4261,
+    "poster_path": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+    "backdrop_path": "/uzvT6tYrU5SxfHe1ieimIGAqyFm.jpg"
+  },
+  {
+    "id": 508442,
+    "title": "Soul",
+    "year": 2020,
+    "release_date": "2020-12-25",
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Fantasy",
+      "Drama"
+    ],
+    "runtime": 101,
+    "popularity": 48.88,
+    "revenue": 136384442,
+    "budget": 150000000,
+    "vote_average": 8.2,
+    "vote_count": 9473,
+    "poster_path": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+    "backdrop_path": "/4JNggqfyJWREqb0enzpUMbvIniV.jpg"
+  },
+  {
+    "id": 577922,
+    "title": "Tenet",
+    "year": 2020,
+    "release_date": "2020-08-22",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "runtime": 150,
+    "popularity": 44.02,
+    "revenue": 365304105,
+    "budget": 205000000,
+    "vote_average": 7.2,
+    "vote_count": 8744,
+    "poster_path": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+    "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg"
+  },
+  {
+    "id": 776503,
+    "title": "CODA",
+    "year": 2021,
+    "release_date": "2021-08-11",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "runtime": 112,
+    "popularity": 27.11,
+    "revenue": 1600000,
+    "budget": 10000000,
+    "vote_average": 8.0,
+    "vote_count": 1922,
+    "poster_path": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+    "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg"
+  },
+  {
+    "id": 646380,
+    "title": "Don't Look Up",
+    "year": 2021,
+    "release_date": "2021-12-07",
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": 138,
+    "popularity": 29.69,
+    "revenue": 791863,
+    "budget": 75000000,
+    "vote_average": 7.1,
+    "vote_count": 7227,
+    "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+    "backdrop_path": "/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg"
+  },
+  {
+    "id": 758866,
+    "title": "Drive My Car",
+    "year": 2021,
+    "release_date": "2021-08-18",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 180,
+    "popularity": 18.9,
+    "revenue": 15308325,
+    "budget": null,
+    "vote_average": 7.4,
+    "vote_count": 1034,
+    "poster_path": "/a2lxHS6Au35k5XtFQEQW44yWHeH.jpg",
+    "backdrop_path": "/ue4bFvkuNc5SWPgYNnfNU2C0D0p.jpg"
+  },
+  {
+    "id": 438631,
+    "title": "Dune",
+    "year": 2021,
+    "release_date": "2021-09-15",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "runtime": 155,
+    "popularity": 75.85,
+    "revenue": 402027830,
+    "budget": 165000000,
+    "vote_average": 7.8,
+    "vote_count": 9420,
+    "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "backdrop_path": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg"
+  },
+  {
+    "id": 581734,
+    "title": "Nomadland",
+    "year": 2021,
+    "release_date": "2021-01-29",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 108,
+    "popularity": 18.15,
+    "revenue": 14784114,
+    "budget": 5000000,
+    "vote_average": 7.2,
+    "vote_count": 2678,
+    "poster_path": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+    "backdrop_path": "/563sRDK3rZS31TXCdTY4lfcwrNK.jpg"
+  },
+  {
+    "id": 634649,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "release_date": "2021-12-15",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "runtime": 148,
+    "popularity": 186.06,
+    "revenue": 1921847111,
+    "budget": 200000000,
+    "vote_average": 8.0,
+    "vote_count": 18299,
+    "poster_path": "/5weKu49pzJCt06OPpjvT80efnQj.jpg",
+    "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg"
+  },
+  {
+    "id": 600583,
+    "title": "The Power of the Dog",
+    "year": 2021,
+    "release_date": "2021-10-25",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "runtime": 128,
+    "popularity": 21.58,
+    "revenue": null,
+    "budget": null,
+    "vote_average": 6.8,
+    "vote_count": 2400,
+    "poster_path": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+    "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg"
+  },
+  {
+    "id": 791373,
+    "title": "Zack Snyder's Justice League",
+    "year": 2021,
+    "release_date": "2021-03-18",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "runtime": 242,
+    "popularity": 130.69,
+    "revenue": null,
+    "budget": 70000000,
+    "vote_average": 8.2,
+    "vote_count": 9202,
+    "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+    "backdrop_path": "/4LO6bnNGIa8zNbM6HwCYzlUKIHq.jpg"
+  },
+  {
+    "id": 537116,
+    "title": "tick, tick... BOOM!",
+    "year": 2021,
+    "release_date": "2021-11-11",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "runtime": 120,
+    "popularity": 12.98,
+    "revenue": null,
+    "budget": null,
+    "vote_average": 7.7,
+    "vote_count": 1825,
+    "poster_path": "/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+    "backdrop_path": "/rKe3MR2u4ZZ0y9uKivzKJRrqBCe.jpg"
+  },
+  {
+    "id": 965150,
+    "title": "Aftersun",
+    "year": 2022,
+    "release_date": "2022-10-21",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 102,
+    "popularity": 37.16,
+    "revenue": 4785157,
+    "budget": null,
+    "vote_average": 7.7,
+    "vote_count": 877,
+    "poster_path": "/jeXmhP2zbUkREMRqFOYIwQOk49T.jpg",
+    "backdrop_path": "/d5l2ITQvpgP0dcWCAG6PUvp8YZw.jpg"
+  },
+  {
+    "id": 545611,
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "release_date": "2022-03-24",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "runtime": 140,
+    "popularity": 64.28,
+    "revenue": 139200000,
+    "budget": 25000000,
+    "vote_average": 7.8,
+    "vote_count": 5210,
+    "poster_path": "/rKvCys0fMIIi1X9rmJBxTPLAtoU.jpg",
+    "backdrop_path": "/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg"
+  },
+  {
+    "id": 414906,
+    "title": "The Batman",
+    "year": 2022,
+    "release_date": "2022-03-01",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 177,
+    "popularity": 100.82,
+    "revenue": 770945583,
+    "budget": 185000000,
+    "vote_average": 7.7,
+    "vote_count": 8584,
+    "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg"
+  },
+  {
+    "id": 361743,
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "release_date": "2022-05-24",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "runtime": 131,
+    "popularity": 126.29,
+    "revenue": 1488732821,
+    "budget": 170000000,
+    "vote_average": 8.3,
+    "vote_count": 7546,
+    "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg"
+  },
+  {
+    "id": 817758,
+    "title": "T\u00c1R",
+    "year": 2022,
+    "release_date": "2022-09-23",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "runtime": 158,
+    "popularity": 29.98,
+    "revenue": 29182623,
+    "budget": 35000000,
+    "vote_average": 7.2,
+    "vote_count": 904,
+    "poster_path": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+    "backdrop_path": "/fwhN9a0oRZvzc2tDuu5BZ59MOPz.jpg"
+  },
+  {
+    "id": 346698,
+    "title": "Barbie",
+    "year": 2023,
+    "release_date": "2023-07-19",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "runtime": 114,
+    "popularity": 1069.34,
+    "revenue": 1428545028,
+    "budget": 145000000,
+    "vote_average": 7.3,
+    "vote_count": 5074,
+    "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
+  },
+  {
+    "id": 872585,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "release_date": "2023-07-19",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "runtime": 181,
+    "popularity": 463.38,
+    "revenue": 933700000,
+    "budget": 100000000,
+    "vote_average": 8.3,
+    "vote_count": 3766,
+    "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg"
+  },
+  {
+    "id": 666277,
+    "title": "Past Lives",
+    "year": 2023,
+    "release_date": "2023-06-02",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 106,
+    "popularity": 46.66,
+    "revenue": 6000000,
+    "budget": null,
+    "vote_average": 7.8,
+    "vote_count": 193,
+    "poster_path": "/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg",
+    "backdrop_path": "/rron9HAuS9s7zBF8iCX1tsafxUo.jpg"
+  },
+  {
+    "id": 569094,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "release_date": "2023-05-31",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": 140,
+    "popularity": 512.34,
+    "revenue": 683241751,
+    "budget": 100000000,
+    "vote_average": 8.4,
+    "vote_count": 4394,
+    "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg"
+  }
+]

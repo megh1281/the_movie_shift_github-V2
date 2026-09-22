@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+.env.local
+*.csv
+TMDB_movie_dataset_v11.csv
+movie_shift_analysis/
+.DS_Store
